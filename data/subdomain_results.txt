@@ -2,17 +2,14 @@
 Gobuster v3.6
 by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
 ===============================================================
-[+] Url:            https://juice-shop.herokuapp.com/
-[+] Method:         GET
-[+] Threads:        10
-[+] Wordlist:       data/subDomaine.txt
-[+] Status codes:   204,301,302,307,401
-[+] User Agent:     gobuster/3.6
-[+] Timeout:        10s
+[+] Domain:     http://www.itsecgames.com/
+[+] Threads:    10
+[+] Resolver:   -t
+[+] Timeout:    1s
+[+] Wordlist:   data/subDomaine.txt
 ===============================================================
-Starting gobuster in directory enumeration mode
+Starting gobuster in DNS enumeration mode
 ===============================================================
-[2K/assets               (Status: 301) [Size: 179] [--> /assets/]
 ===============================================================
 Finished
 ===============================================================

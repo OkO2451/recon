@@ -3,6 +3,7 @@ import subprocess
 
 
 url_target = "https://juice-shop.herokuapp.com/"
+url_target = "http://www.itsecgames.com/"
 
 
 command_dns = [
@@ -23,9 +24,19 @@ command_dir = [
             "-o", "data/directory_results.txt",
         ]
 
+command_wfuzz = [
+        "wfuzz",
+        "-w", "data/subDomaine.txt",  # Path to the wordlist
+        "--hc", "404",  # Hide responses with 404 status codes
+        f"{url_target}FUZZ"  # Target URL with FUZZ keyword
+    ]
+
 
 
 def invoquer_gobuster( command):
+    
+    # print working directory
+    print(os.getcwd())
     # Ensure url_target is not empty
 
     # Construct the absolute path to the wordlist
@@ -85,62 +96,10 @@ def invoquer_gobuster( command):
         return []
 
 # Example usage
+"""
 result = invoquer_gobuster(command_dns)
 result1 = invoquer_gobuster(command_dir)
+"""
 
+result = invoquer_gobuster(command_wfuzz)
 
-import subprocess
-
-def invoquer_wfuzz(url_target, wordlist_path, output_file_path):
-    # Construct the wfuzz command
-    command = [
-        "wfuzz",
-        "-w", wordlist_path,  # Path to the wordlist
-        "--hc", "404",  # Hide responses with 404 status codes
-        f"{url_target}FUZZ"  # Target URL with FUZZ keyword
-    ]
-
-    try:
-        # Debug output: print the command
-        print(f"Running command: {' '.join(command)}")
-
-        # Execute the wfuzz command and capture output
-        result = subprocess.run(
-            command,
-            stdout=subprocess.PIPE,
-            stderr=subprocess.PIPE,
-            text=True
-        )
-
-        # Debug output: print result codes and output
-        print(f"Command exited with code: {result.returncode}")
-        print(f"stdout: {result.stdout}")
-        print(f"stderr: {result.stderr}")
-
-        # Handle errors
-        if result.returncode != 0:
-            print("Wfuzz encountered an error:")
-            print(result.stderr)
-            return []
-
-        # Split the output into a list of lines
-        output = result.stdout.split('\n')
-
-        # Remove empty lines
-        output = [line for line in output if line.strip()]
-
-        # Writing the result to a file
-        with open(output_file_path, 'w') as f:
-            for item in output:
-                f.write("%s\n" % item)
-
-        return output
-
-    except Exception as e:
-        print(f"An error occurred: {e}")
-        return []
-
-# Example usage
-wordlist_path = "wordlist/general/common.txt"
-output_file_path = "data/wfuzz_results.txt"
-result = invoquer_wfuzz(url_target, wordlist_path, output_file_path)
