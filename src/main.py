@@ -28,7 +28,7 @@ def recursiveDirectory(url, wordlist, output):
 def getFiles(url, wordlist, output):
     pass
 
-def 
+# 
 
 
 # extract the subdomains from the results file
