@@ -1,0 +1,1 @@
+/assets               (Status: 301) [Size: 179] [--> /assets/]
