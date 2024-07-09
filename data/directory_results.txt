@@ -1,3 +1,1 @@
-/images               (Status: 301) [Size: 241] [--> http://www.itsecgames.com/images/]
-/downloads            (Status: 301) [Size: 244] [--> http://www.itsecgames.com/downloads/]
-/js                   (Status: 301) [Size: 237] [--> http://www.itsecgames.com/js/]
+/assets               (Status: 301) [Size: 179] [--> /assets/]

@@ -1,0 +1,340 @@
+Domain                                                 ,Associated Domains
+accounts.google.com                                    ,accounts.google.com
+checkout.google.com                                    ,checkout.google.com
+classroom.google.com                                   ,"*.classroom.google.com, classroom.google.com"
+misc-sni.google.com                                    ,"*.aiplatform-notebook.cloud.google.com, *.aiplatform-training.cloud.google.com, *.backupdr-autopush.cloud.google.com, *.backupdr.cloud.google.com, *.backupdr-dev.cloud.google.com, *.backupdr-sandbox.cloud.google.com, *.backupdr-staging.cloud.google.com, colab.research.google.com, *.composer.cloud.google.com, *.composer-dev.cloud.google.com, *.composer-qa.cloud.google.com, *.composer-staging.cloud.google.com, console.eu.cloud.google.com, *.datafusion-api.cloud.google.com, *.datafusion-api-dev.cloud.google.com, *.datafusion-api-staging.cloud.google.com, *.datafusion.cloud.google.com, *.datafusion-dev.cloud.google.com, *.datafusion-staging.cloud.google.com, *.datalab.cloud.google.com, *.dataplex.cloud.google.com, *.dataplex-dev.cloud.google.com, *.dataplex-staging.cloud.google.com, *.dataproc.cloud.google.com, *.dataproc-image-staging.cloud.google.com, *.dataproc-staging.cloud.google.com, *.dataproc-test.cloud.google.com, datasetsearch.research.google.com, dg-meta.video.google.com, *.discover.google.com, discover.google.com, *.earthengine.google.com, ehr-search.health.google.com, *.fiber.google.com, *.healthcare.cloud.google.com, *.mapmaker.google.com, *.microhost.google.com, misc-sni.google.com, *.notebooks.cloud.google.com, *.pipelines.cloud.google.com, *.tensorboard-autopush.cloud.google.com, *.tensorboard.cloud.google.com, *.tensorboard-dev.cloud.google.com, *.tensorboard-staging.cloud.google.com, *.tensorboard-test.cloud.google.com"
+nestrenew.google.com                                   ,"*.nestrenew.google.com, nestrenew.google.com"
+discover.google.com                                    ,"*.discover.google.com, discover.google.com"
+status.play.google.com                                 ,status.play.google.com
+*.ewoq.google.com                                      ,*.ewoq.google.com
+*.webapp.google.com                                    ,*.webapp.google.com
+*.apis.google.com                                      ,"*.apis.google.com, apis.google.com"
+mail.google.com                                        ,"inbox.google.com, mail.google.com"
+m.google.com                                           ,m.google.com
+ecc-test.sandbox.google.com                            ,ecc-test.sandbox.google.com
+*.sa.cloud.google.com                                  ,"console.sa.cloud.google.com, *.sa.cloud.google.com"
+status.search.google.com                               ,status.search.google.com
+*.calendar.google.com                                  ,*.calendar.google.com
+sandbox.google.com                                     ,sandbox.google.com
+*.vp.video.l.google.com                                ,"dg.video.google.com, *.vp.video.l.google.com"
+console.nest.google.com                                ,console.nest.google.com
+*.calljoy.com                                          ,calljoy.area120.google.com
+*.us.cloud.google.com                                  ,"console.us.cloud.google.com, *.us.cloud.google.com"
+uberproxy-san.dclk.google.com                          ,"*.dclk.google.com, uberproxy-san.dclk.google.com"
+solutions.cloud.google.com                             ,"*.solutions.cloud.google.com, solutions.cloud.google.com"
+guidebooks.google.com                                  ,"*.guidebooks.google.com, guidebooks.google.com"
+*.arvr.google.com                                      ,*.arvr.google.com
+acs-autopush.voice.google.com                          ,acs-autopush.voice.google.com
+*.grow.google.com                                      ,"*.grow.google.com, grow.google.com"
+*.home.google.com                                      ,"*.home.google.com, home.google.com"
+*.speech.google.com                                    ,*.speech.google.com
+startup.google.com                                     ,"*.startup.google.com, startup.google.com"
+*.ext.google.com                                       ,"*.ext.google.com, ext.google.com"
+bod.google.com                                         ,"*.bod.google.com, bod.google.com"
+*.mtls.sandbox.googleapis.com                          ,*.mtls.sandbox.google.com
+acs.voice.google.com                                   ,acs.voice.google.com
+*.area120.com                                          ,*.area120.google.com
+*.artsandculture.google.com                            ,"*.artsandculture.google.com, artsandculture.google.com"
+*.ca.cloud.google.com                                  ,"*.ca.cloud.google.com, console.ca.cloud.google.com"
+*.in.cloud.google.com                                  ,"console.in.cloud.google.com, *.in.cloud.google.com"
+www.google.com                                         ,www.google.com
+cert-test.sandbox.google.com                           ,cert-test.sandbox.google.com
+acs-staging.voice.google.com                           ,acs-staging.voice.google.com
+*.clients.google.com                                   ,*.clients.google.com
+testmx.sandbox.google.com                              ,testmx.sandbox.google.com
+misc.google.com                                        ,"*.actions.google.com, *.apigee.google.com, *.arvr.google.com, *.baseline.google.com, *.developer.google.com, *.developers.google.com, *.ewoq.google.com, *.firebase.google.com, *.ggp.google.com, misc.google.com, *.northamerica.apigee.google.com, ping.feedburner.google.com, *.speech.google.com, *.s.svc-1.google.com, s.svc-1.google.com, *.support.google.com"
+*.it.cloud.google.com                                  ,"console.it.cloud.google.com, *.it.cloud.google.com"
+*.jp.cloud.google.com                                  ,"console.jp.cloud.google.com, *.jp.cloud.google.com"
+uberproxy-san.negocio.corp.google.com                  ,"*.negocio.corp.google.com, uberproxy-san.negocio.corp.google.com"
+uberproxy-san.business.corp.google.com                 ,"*.business.corp.google.com, uberproxy-san.business.corp.google.com"
+telus-voice-staging.sandbox.google.com                 ,telus-voice-staging.sandbox.google.com
+*.news.google.com                                      ,"*.news.google.com, news.google.com"
+partnertest.fi.google.com                              ,partnertest.fi.google.com
+telus.voice.google.com                                 ,telus.voice.google.com
+*.il.cloud.google.com                                  ,"console.il.cloud.google.com, *.il.cloud.google.com"
+programmablesearchengine.google.com                    ,programmablesearchengine.google.com
+mlcc.google.com                                        ,"*.mlcc.google.com, mlcc.google.com"
+streetviewstudio.maps.google.com                       ,"*.streetviewstudio.maps.google.com, streetviewstudio.maps.google.com"
+uberproxy-san.sslproxy.corp.google.com                 ,"*.sslproxy.corp.google.com, uberproxy-san.sslproxy.corp.google.com"
+uberproxy-san.x20web.corp.google.com                   ,"*.projects.x20web.corp.google.com, *.projects.x20web-dev.corp.google.com, *.teams.x20web.corp.google.com, *.teams.x20web-dev.corp.google.com, uberproxy-san.x20web.corp.google.com, *.users.x20web.corp.google.com, *.users.x20web-dev.corp.google.com"
+uberproxy-san.enterprise.corp.google.com               ,"*.enterprise.corp.google.com, uberproxy-san.enterprise.corp.google.com"
+uberproxy.corp.google.com                              ,"*.corp.google.com, *.ld.corp.google.com, *.login-canary.corp.google.com, *.login.corp.google.com, *.login-dev.corp.google.com, *.login-stable.corp.google.com, *.login-test.corp.google.com, uberproxy.corp.google.com"
+uberproxy-san.google.com                               ,"goto.google.com, uberproxy-san.google.com"
+uberproxy-san.corp.google.com                          ,"*.anguslab.corp.google.com, *.apis.corp.google.com, *.auth.corp.google.com, *.bigstore.corp.google.com, *.bigstore-test.corp.google.com, *.business.corp.google.com, *.connect-canary.corp.google.com, *.connect.corp.google.com, *.connect-dev.corp.google.com, *.connect-staging.corp.google.com, *.contacts.corp.google.com, *.corp-backups.corp.google.com, *.dasher.corp.google.com, *.dasher-qa.corp.google.com, *.demetrius-codespot.corp.google.com, *.demetrius.corp.google.com, *.demetrius-googlecode.corp.google.com, *.demos.corp.google.com, *.demos-dev.corp.google.com, *.demos-strong.corp.google.com, *.devsite-preview.corp.google.com, *.dfa7.corp.google.com, *.docs-dev.corp.google.com, *.docs-platinum.corp.google.com, *.docs-qa.corp.google.com, *.drive-test.corp.google.com, *.dthree.corp.google.com, *.focus.corp.google.com, *.games.corp.google.com, *.git.corp.google.com, *.gutenberg.corp.google.com, *.gutenberg-dev.corp.google.com, *.gutenberg-staging.corp.google.com, *.gws-demos.corp.google.com, *.gws-mobile-demos.corp.google.com, *.h5games-autopush.corp.google.com, *.h5games.corp.google.com, *.h5games-dev.corp.google.com, *.h5games-prod.corp.google.com, *.h5games-staging.corp.google.com, *.jotspot-qa08.corp.google.com, *.litespeed-proxy.corp.google.com, *.loop.corp.google.com, *.oz-gmail.corp.google.com, *.oz-guc.corp.google.com, *.oz-s2.corp.google.com, *.oz-www.corp.google.com, *.plusapis.corp.google.com, *.plusone.corp.google.com, *.postini.corp.google.com, *.profiles.corp.google.com, *.prom-qa.corp.google.com, *.recorder-autopush.corp.google.com, *.recorder-dev.corp.google.com, *.recorder-staging.corp.google.com, *.search.corp.google.com, *.sites-googlegroups-nightly.corp.google.com, *.sites-googlegroups-qa06.corp.google.com, *.sites-googlegroups-qa07.corp.google.com, *.sites-googlegroups-qa08.corp.google.com, *.sites-googlegroups-tctest.corp.google.com, *.staging-git.corp.google.com, *.testing-git.corp.google.com, *.test.postini.corp.google.com, *.tuf-autopush.corp.google.com, *.tuf-autopush-qual.corp.google.com, *.tuf-dev.corp.google.com, *.tuf-file-autopush.corp.google.com, *.tuf-file-dev.corp.google.com, *.tuf-file-prod.corp.google.com, *.tuf-file-staging.corp.google.com, *.tuf-prod.corp.google.com, *.tuf-staging.corp.google.com, uberproxy-san.corp.google.com, *.urchin.corp.google.com, *.usercontent.corp.google.com, *.webapp.corp.google.com, *.webapp-dev.corp.google.com, *.webapps.corp.google.com, *.webapps-dev.corp.google.com, *.webapps-staging.corp.google.com, *.webapp-staging.corp.google.com, *.webdrive-test-canary.corp.google.com, *.webdrive-test-prod.corp.google.com, *.webview-cider-v.corp.google.com, *.webview-cider-v-staging.corp.google.com, *.webview-cider-v-test.corp.google.com, *.wetdocs.corp.google.com, *.wetlab.corp.google.com, *.wpt-autopush.corp.google.com, *.wpt-dev.corp.google.com, *.wpt-staging.corp.google.com"
+uberproxy-san.printer.corp.google.com                  ,"*.printer.corp.google.com, uberproxy-san.printer.corp.google.com"
+uberproxy-cctlds.corp.google.com                       ,uberproxy-cctlds.corp.google.com
+uberproxy-san.consent.corp.google.com                  ,"*.consent.corp.google.com, uberproxy-san.consent.corp.google.com"
+malachite-wildcards.corp.google.com                    ,"*.malachite-dev.corp.google.com, *.malachite-looker-dev.corp.google.com, *.malachite-looker-staging.corp.google.com, *.malachite-preprod.corp.google.com, *.malachite-staging.corp.google.com, *.malachite-test.corp.google.com, malachite-wildcards.corp.google.com"
+ics.prod.google.com                                    ,"*.adsfe.corp.google.com, *.adsfe-qa.corp.google.com, *.adz.corp.google.com, *.adz.google.com, *.adz-qa.corp.google.com, *.borgmon.evenflow.adz.google.com, *.borgmon.evenflow-test.adz.google.com, *.evenflow.adz.google.com, *.evenflow-test.adz.google.com, *.frame.ads-devel.qa.adz.google.com, *.frame.ads-nightly.qa.adz.google.com, *.frame.ads-prod.qa.adz.google.com, *.frame.adwords-canary.qa.adz.google.com, *.frame.adwords.corp.google.com, *.frame.adwords-detours-prod.qa.adz.google.com, *.frame.adwords-next-external-devel.qa.adz.google.com, *.frame.adwords-next-external-prod.qa.adz.google.com, *.frame.canary.qa.adz.google.com, *.frame.ds-next-devel.qa.adz.google.com, *.frame.ds-next-external-devel.qa.adz.google.com, *.frame.ds-next-external-prod.qa.adz.google.com, *.frame.ds-next-nightly.qa.adz.google.com, *.frame.ds-next-prod.qa.adz.google.com, *.frame.searchads-canary.qa.adz.google.com, *.frame.searchads.corp.google.com, *.ics-devel-east.qa.adz.google.com, ics.prod.google.com, *.qa.adz.google.com, *.spam.adz.google.com, *.spam-test.adz.google.com"
+uberproxy-san.cnsviewer-static.corp.google.com         ,"*.cnsviewer-static.corp.google.com, *.cnsviewer-static-dev.corp.google.com, uberproxy-san.cnsviewer-static.corp.google.com"
+uberproxy-san.cert.corp.google.com                     ,"*.cert.corp.google.com, uberproxy-san.cert.corp.google.com"
+uberproxy-apphosting.corp.google.com                   ,"*.firebase-staging.corp.google.com, *.firebase-staging-sso.corp.google.com, *.paidtasks.corp.google.com, *.paidtasks-staging.corp.google.com, *.pantheon-demos.corp.google.com, *.pantheon-staging.corp.google.com, *.pantheon-staging-sso.corp.google.com, *.pantheon-tests.corp.google.com, *.prom.corp.google.com, uberproxy-apphosting.corp.google.com"
+devsite-wildcards.corp.google.com                      ,"*.devsite.corp.google.com, devsite-wildcards.corp.google.com, *.test.devsite.corp.google.com"
+uberproxy-nocert.corp.google.com                       ,"ca-service-gecc.corp.google.com, corp-logs-proxy-canary.corp.google.com, corp-logs-proxy.corp.google.com, emergencylocator.corp.google.com, gleeok-pacserver.corp.google.com, legaldms-dev-no-cert.corp.google.com, legaldms-no-cert.corp.google.com, legaldms-uat-no-cert.corp.google.com, m.guts.corp.google.com, m.gutsdev.corp.google.com, proxyconfig-canary.corp.google.com, proxyconfig.corp.google.com, proxyconfig-testing.corp.google.com, pxecontrol.corp.google.com, pxecontrol-test.corp.google.com, snaxca-api.corp.google.com, uberproxy-nocert.corp.google.com"
+pantheon-wildcards.corp.google.com                     ,"*.pantheon-ci.corp.google.com, *.pantheon-sandbox.corp.google.com, pantheon-wildcards.corp.google.com"
+splat-svr.hot.corp.google.com                          ,splat-svr.hot.corp.google.com
+*.c.docs.google.com                                    ,"*.c.chat.google.com, *.c.docs.google.com, *.c.drive.google.com, *.c.mail.google.com, *.c.pack.google.com, *.c.play.google.com"
+client-d31feif.xup.corp.google.com                     ,client-d31feif.xup.corp.google.com
+xup.corp.google.com                                    ,"*.xup.corp.google.com, xup.corp.google.com"
+sg-cs-sin30-3-xx-corpa-nvr02.corp.google.com           ,sg-cs-sin30-3-xx-corpa-nvr02.corp.google.com
+sg-cs-sin30-3-xx-corpa-nvr01.corp.google.com           ,sg-cs-sin30-3-xx-corpa-nvr01.corp.google.com
+radius-machineauth-anycast.corp.google.com             ,radius-machineauth-anycast.corp.google.com
+smtp-proxy.corp.google.com                             ,smtp-proxy.corp.google.com
+us-edg-sfo03-1-ac-corpa-nvr01.corp.google.com          ,us-edg-sfo03-1-ac-corpa-nvr01.corp.google.com
+us-edg-ord38-1-ac-corpa-nvr01.corp.google.com          ,us-edg-ord38-1-ac-corpa-nvr01.corp.google.com
+us-edg-sea30-1-ac-corpa-nvr01.corp.google.com          ,us-edg-sea30-1-ac-corpa-nvr01.corp.google.com
+us-cs-lax65-1-xx-corpa-nvr01.corp.google.com           ,us-cs-lax65-1-xx-corpa-nvr01.corp.google.com
+br-cs-gru23-1-xx-corpa-nvr01.corp.google.com           ,br-cs-gru23-1-xx-corpa-nvr01.corp.google.com
+br-cs-gru23-1-xx-corpa-nvr02.corp.google.com           ,br-cs-gru23-1-xx-corpa-nvr02.corp.google.com
+us-cs-lax65-1-xx-corpa-nvr02.corp.google.com           ,us-cs-lax65-1-xx-corpa-nvr02.corp.google.com
+us-edg-dfw25-1-ac-corpa-nvr01.corp.google.com          ,us-edg-dfw25-1-ac-corpa-nvr01.corp.google.com
+uk-edg-lhr48-1-ac-corpa-nvr01.corp.google.com          ,uk-edg-lhr48-1-ac-corpa-nvr01.corp.google.com
+apigee.google.com                                      ,"*.apigee.google.com, apigee.google.com, *.asia.apigee.google.com, *.australia.apigee.google.com, *.europe.apigee.google.com, *.northamerica.apigee.google.com, *.southamerica.apigee.google.com"
+contentpartners.maps.google.com                        ,"*.contentpartners.maps.google.com, contentpartners.maps.google.com"
+deliverynavigator.cloud.google.com                     ,"*.deliverynavigator.cloud.google.com, deliverynavigator.cloud.google.com"
+captive.googleapis.com                                 ,"captive.adservice.google.com, captive.adservice.google.com.br, captive.adservice.google.com.mx, captive.adservice.google.com.ng, captive.adservice.google.com.ph, captive.adservice.google.com.vn"
+*.mtls.googleapis.com                                  ,"*.mtls.clients6.google.com, *.mtls.cloud.google.com, *.mtls.sandbox.google.com, sandbox.mtls.google.com"
+*.workspace.google.com                                 ,*.workspace.google.com
+*.gsuite.google.com                                    ,*.gsuite.google.com
+google.com                                             ,"android.clients.google.com, *.appengine.google.com, *.cloud.google.com, *.crowdsource.google.com, *.datacompute.google.com, *.google.com, google.com, *.google.com.af, google.com.af, *.google.com.ag, google.com.ag, *.google.com.ai, google.com.ai, *.google.com.ar, google.com.ar, *.google.com.au, google.com.au, *.google.com.bd, google.com.bd, *.google.com.bh, google.com.bh, *.google.com.bn, google.com.bn, *.google.com.bo, google.com.bo, *.google.com.br, google.com.br, *.google.com.by, google.com.by, *.google.com.bz, google.com.bz, *.google.com.co, google.com.co, *.google.com.cu, google.com.cu, *.google.com.cy, google.com.cy, *.google.com.do, google.com.do, *.google.com.ec, google.com.ec, *.google.com.eg, google.com.eg, *.google.com.et, google.com.et, *.google.com.fj, google.com.fj, *.google.com.ge, google.com.ge, *.google.com.gh, google.com.gh, *.google.com.gi, google.com.gi, *.google.com.gr, google.com.gr, *.google.com.gt, google.com.gt, *.google.com.hk, google.com.hk, *.google.com.iq, google.com.iq, *.google.com.jm, google.com.jm, *.google.com.jo, google.com.jo, *.google.com.kh, google.com.kh, *.google.com.kw, google.com.kw, *.google.com.lb, google.com.lb, *.google.com.ly, google.com.ly, *.google.com.mm, google.com.mm, *.google.com.mt, google.com.mt, *.google.com.mx, google.com.mx, *.google.com.my, google.com.my, *.google.com.na, google.com.na, *.google.com.nf, google.com.nf, *.google.com.ng, google.com.ng, *.google.com.ni, google.com.ni, *.google.com.np, google.com.np, *.google.com.nr, google.com.nr, *.google.com.om, google.com.om, *.google.com.pa, google.com.pa, *.google.com.pe, google.com.pe, *.google.com.pg, google.com.pg, *.google.com.ph, google.com.ph, *.google.com.pk, google.com.pk, *.google.com.pl, google.com.pl, *.google.com.pr, google.com.pr, *.google.com.py, google.com.py, *.google.com.qa, google.com.qa, *.google.com.ru, google.com.ru, *.google.com.sa, google.com.sa, *.google.com.sb, google.com.sb, *.google.com.sg, google.com.sg, *.google.com.sl, google.com.sl, *.google.com.sv, google.com.sv, *.google.com.tj, google.com.tj, *.google.com.tn, google.com.tn, *.google.com.tr, google.com.tr, *.google.com.tw, google.com.tw, *.google.com.ua, google.com.ua, *.google.com.uy, google.com.uy, *.google.com.vc, google.com.vc, *.google.com.ve, google.com.ve, *.google.com.vn, google.com.vn, *.url.google.com"
+*.payments.googleapis.com                              ,"bpui0.google.com, digiyaar.pay.google.com, landing.pay.google.com, merchantstories.pay.google.com, pay.google.com, *.payments.google.com, payments.google.com, *.p.sandbox.google.com, *.sandbox.google.com, tez.google.com, tokenized.play.google.com, wallet.google.com"
+time.google.com                                        ,time.google.com
+*.jibe.google.com                                      ,*.jibe.google.com
+*.webapps.google.com                                   ,*.webapps.google.com
+dns.google                                             ,"*.dns.google.com, dns.google.com"
+supl.google.com                                        ,supl.google.com
+ldap.google.com                                        ,ldap.google.com
+*.usercontent.google.com                               ,"*.fife.google.com, fife.google.com, *.fife.usercontent.google.com, fife.usercontent.google.com, *.usercontent.google.com, usercontent.google.com, *.usercontent.sandbox.google.com"
+*.chrome.google.com                                    ,*.chrome.google.com
+*.recorder.google.com                                  ,*.recorder.google.com
+acs-dev.voice.google.com                               ,acs-dev.voice.google.com
+upload.video.google.com                                ,"*.clients.google.com, *.docs.google.com, *.drive.google.com, *.photos.google.com, *.upload.google.com, upload.google.com, upload.video.google.com"
+wifi.google.com                                        ,wifi.google.com
+*.googleapis.com                                       ,"*.clients6.google.com, *.clients6.google.com.af, *.clients6.google.com.ag, *.clients6.google.com.ai, *.clients6.google.com.ar, *.clients6.google.com.au, *.clients6.google.com.bd, *.clients6.google.com.bh, *.clients6.google.com.bn, *.clients6.google.com.bo, *.clients6.google.com.br, *.clients6.google.com.by, *.clients6.google.com.bz, *.clients6.google.com.co, *.clients6.google.com.cu, *.clients6.google.com.cy, *.clients6.google.com.do, *.clients6.google.com.ec, *.clients6.google.com.eg, *.clients6.google.com.et, *.clients6.google.com.fj, *.clients6.google.com.ge, *.clients6.google.com.gh, *.clients6.google.com.gi, *.clients6.google.com.gr, *.clients6.google.com.gt, *.clients6.google.com.hk, *.clients6.google.com.iq, *.clients6.google.com.jm, *.clients6.google.com.jo, *.clients6.google.com.kh, *.clients6.google.com.kw, *.clients6.google.com.lb, *.clients6.google.com.ly, *.clients6.google.com.mm, *.clients6.google.com.mt, *.clients6.google.com.mx, *.clients6.google.com.my, *.clients6.google.com.na, *.clients6.google.com.nf, *.clients6.google.com.ng, *.clients6.google.com.ni, *.clients6.google.com.np, *.clients6.google.com.nr, *.clients6.google.com.om, *.clients6.google.com.pa, *.clients6.google.com.pe, *.clients6.google.com.pg, *.clients6.google.com.ph, *.clients6.google.com.pk, *.clients6.google.com.pl, *.clients6.google.com.pr, *.clients6.google.com.py, *.clients6.google.com.qa, *.clients6.google.com.ru, *.clients6.google.com.sa, *.clients6.google.com.sb, *.clients6.google.com.sg, *.clients6.google.com.sl, *.clients6.google.com.sv, *.clients6.google.com.tj, *.clients6.google.com.tn, *.clients6.google.com.tr, *.clients6.google.com.tw, *.clients6.google.com.ua, *.clients6.google.com.uy, *.clients6.google.com.vc, *.clients6.google.com.ve, *.clients6.google.com.vn"
+adwords.google.com                                     ,"ads.google.com, adwords.google.com, adwords.google.com.ar, adwords.google.com.au, adwords.google.com.br, adwords.google.com.gr, adwords.google.com.hk, adwords.google.com.ly, adwords.google.com.mx, adwords.google.com.my, adwords.google.com.pe, adwords.google.com.ph, adwords.google.com.pk, adwords.google.com.ru, adwords.google.com.sg, adwords.google.com.tr, adwords.google.com.tw, adwords.google.com.ua, adwords.google.com.vn, *.frame.ads.google.com, frame.ads.google.com, www.ads.google.com, www.adwords.google.com"
+*.googleusercontent.com                                ,manifest.lh3.photos.google.com
+*.googlecode.com                                       ,"*.cloud.google.com, *.code.google.com, *.developers.google.com"
+mx.google.com                                          ,"alt1.aspmx.l.google.com, alt1.gmail-smtp-in.l.google.com, alt1.gmr-smtp-in.l.google.com, alt2.aspmx.l.google.com, alt2.gmail-smtp-in.l.google.com, alt2.gmr-smtp-in.l.google.com, alt3.aspmx.l.google.com, alt3.gmail-smtp-in.l.google.com, alt3.gmr-smtp-in.l.google.com, alt4.aspmx.l.google.com, alt4.gmail-smtp-in.l.google.com, alt4.gmr-smtp-in.l.google.com, aspmx.l.google.com, gmail-smtp-in.l.google.com, gmr-mx.google.com, gmr-smtp-in.l.google.com, mx.google.com, smtp.google.com"
+*.mail.google.com                                      ,"*.client-channel.google.com, *.docs.google.com, *.drive.google.com, *.hangouts.google.com, *.mail.google.com, mail-settings.google.com, *.meet.google.com, *.plus.google.com, *.sites.google.com, *.talkgadget.google.com"
+us-edg-alt26-1-ac-corpa-nvr01.corp.google.com          ,us-edg-alt26-1-ac-corpa-nvr01.corp.google.com
+tensorflow.google.com                                  ,"*.tensorflow.google.com, tensorflow.google.com"
+get.duo.google.com                                     ,get.duo.google.com
+*.google.com                                           ,"android.clients.google.com, *.appengine.google.com, *.cloud.google.com, *.crowdsource.google.com, *.datacompute.google.com, *.google.com, google.com, *.google.com.ar, *.google.com.au, *.google.com.br, *.google.com.co, *.google.com.mx, *.google.com.tr, *.google.com.vn, *.url.google.com"
+devsite-sni.developers.google.com                      ,"devsite-sni.developers.google.com, *.generativeai.google.com"
+*.uk.cloud.google.com                                  ,"console.uk.cloud.google.com, *.uk.cloud.google.com"
+*.google-analytics.com                                 ,region1.analytics.google.com
+*.au.cloud.google.com                                  ,"*.au.cloud.google.com, console.au.cloud.google.com"
+*.eu.cloud.google.com                                  ,"console.eu.cloud.google.com, *.eu.cloud.google.com"
+id-edg-cgk01-3-ac-corpa-nvr01.corp.google.com          ,id-edg-cgk01-3-ac-corpa-nvr01.corp.google.com
+sg-edg-sin10-1-ac-corpa-nvr01.corp.google.com          ,sg-edg-sin10-1-ac-corpa-nvr01.corp.google.com
+sg-edg-sin11-1-ac-corpa-nvr01.corp.google.com          ,sg-edg-sin11-1-ac-corpa-nvr01.corp.google.com
+jp-edg-nrt12-1-ac-corpa-nvr01.corp.google.com          ,jp-edg-nrt12-1-ac-corpa-nvr01.corp.google.com
+us-edg-las14-1-ac-corpa-nvr01.corp.google.com          ,us-edg-las14-1-ac-corpa-nvr01.corp.google.com
+us-cs-dfw36-5-xx-corpa-nvr02.corp.google.com           ,us-cs-dfw36-5-xx-corpa-nvr02.corp.google.com
+ca-edg-yyz12-1-ac-corpa-nvr01.corp.google.com          ,ca-edg-yyz12-1-ac-corpa-nvr01.corp.google.com
+us-edg-lga34-2-ac-corpa-nvr01.corp.google.com          ,us-edg-lga34-2-ac-corpa-nvr01.corp.google.com
+us-cs-hio03-1-xx-corpa-nvr02.corp.google.com           ,us-cs-hio03-1-xx-corpa-nvr02.corp.google.com
+br-edg-rio09-1-ac-corpa-nvr01.corp.google.com          ,br-edg-rio09-1-ac-corpa-nvr01.corp.google.com
+br-edg-gru06-1-ac-corpa-nvr01.corp.google.com          ,br-edg-gru06-1-ac-corpa-nvr01.corp.google.com
+gb-cs-lhr65-1-xx-corpa-nvr02.corp.google.com           ,gb-cs-lhr65-1-xx-corpa-nvr02.corp.google.com
+us-cs-hio03-1-xx-corpa-nvr01.corp.google.com           ,us-cs-hio03-1-xx-corpa-nvr01.corp.google.com
+us-edg-las15-1-ac-corpa-nvr01.corp.google.com          ,us-edg-las15-1-ac-corpa-nvr01.corp.google.com
+br-edg-gru14-1-ac-corpa-nvr01.corp.google.com          ,br-edg-gru14-1-ac-corpa-nvr01.corp.google.com
+us-cs-dfw36-5-xx-corpa-nvr01.corp.google.com           ,us-cs-dfw36-5-xx-corpa-nvr01.corp.google.com
+us-edg-atl14-1-ac-corpa-nvr01.corp.google.com          ,us-edg-atl14-1-ac-corpa-nvr01.corp.google.com
+ca-edg-yyz10-4-ac-corpa-nvr01.corp.google.com          ,ca-edg-yyz10-4-ac-corpa-nvr01.corp.google.com
+us-edg-nuq04-1-ac-corpa-nvr01.corp.google.com          ,us-edg-nuq04-1-ac-corpa-nvr01.corp.google.com
+br-edg-rio07-1-ac-corpa-nvr01.corp.google.com          ,br-edg-rio07-1-ac-corpa-nvr01.corp.google.com
+us-cs-iad69-1-xx-corpa-nvr02.corp.google.com           ,us-cs-iad69-1-xx-corpa-nvr02.corp.google.com
+us-cs-iad69-1-xx-corpa-nvr01.corp.google.com           ,us-cs-iad69-1-xx-corpa-nvr01.corp.google.com
+us-cs-cbf65-1-xx-corpa-nvr02.corp.google.com           ,us-cs-cbf65-1-xx-corpa-nvr02.corp.google.com
+de-cs-fra56-1-xx-corpa-nvr02.corp.google.com           ,de-cs-fra56-1-xx-corpa-nvr02.corp.google.com
+ca-cs-yyz18-1-xx-corpa-nvr01.corp.google.com           ,ca-cs-yyz18-1-xx-corpa-nvr01.corp.google.com
+uk-edg-lhr25-1-ac-corpa-nvr01.corp.google.com          ,uk-edg-lhr25-1-ac-corpa-nvr01.corp.google.com
+us-yti-atl41-1-kn-corpa-nvr01.corp.google.com          ,us-yti-atl41-1-kn-corpa-nvr01.corp.google.com
+us-cs-iad67-2-xx-corpa-nvr02.corp.google.com           ,us-cs-iad67-2-xx-corpa-nvr02.corp.google.com
+us-cs-cbf65-1-xx-corpa-nvr01.corp.google.com           ,us-cs-cbf65-1-xx-corpa-nvr01.corp.google.com
+us-yti-atl41-1-kn-corpa-nvr02.corp.google.com          ,us-yti-atl41-1-kn-corpa-nvr02.corp.google.com
+de-cs-fra56-1-xx-corpa-nvr01.corp.google.com           ,de-cs-fra56-1-xx-corpa-nvr01.corp.google.com
+gb-cs-lhr65-1-xx-corpa-nvr01.corp.google.com           ,gb-cs-lhr65-1-xx-corpa-nvr01.corp.google.com
+ca-cs-yyz18-1-xx-corpa-nvr02.corp.google.com           ,ca-cs-yyz18-1-xx-corpa-nvr02.corp.google.com
+us-cs-iad67-2-xx-corpa-nvr01.corp.google.com           ,us-cs-iad67-2-xx-corpa-nvr01.corp.google.com
+npja9.mtv.corp.google.com                              ,npja9.mtv.corp.google.com
+npja8.mtv.corp.google.com                              ,npja8.mtv.corp.google.com
+npja7.mtv.corp.google.com                              ,npja7.mtv.corp.google.com
+npja6.mtv.corp.google.com                              ,npja6.mtv.corp.google.com
+npja5.mtv.corp.google.com                              ,npja5.mtv.corp.google.com
+npja4.mtv.corp.google.com                              ,npja4.mtv.corp.google.com
+npja3.mtv.corp.google.com                              ,npja3.mtv.corp.google.com
+npja2.mtv.corp.google.com                              ,npja2.mtv.corp.google.com
+npja12.mtv.corp.google.com                             ,npja12.mtv.corp.google.com
+npja11.mtv.corp.google.com                             ,npja11.mtv.corp.google.com
+npja10.mtv.corp.google.com                             ,npja10.mtv.corp.google.com
+npja1.mtv.corp.google.com                              ,npja1.mtv.corp.google.com
+npgi9.mtv.corp.google.com                              ,npgi9.mtv.corp.google.com
+npgi8.mtv.corp.google.com                              ,npgi8.mtv.corp.google.com
+npgi7.mtv.corp.google.com                              ,npgi7.mtv.corp.google.com
+npgi6.mtv.corp.google.com                              ,npgi6.mtv.corp.google.com
+npgi5.mtv.corp.google.com                              ,npgi5.mtv.corp.google.com
+npgi4.mtv.corp.google.com                              ,npgi4.mtv.corp.google.com
+npgi3.mtv.corp.google.com                              ,npgi3.mtv.corp.google.com
+npgi20.mtv.corp.google.com                             ,npgi20.mtv.corp.google.com
+npgi2.mtv.corp.google.com                              ,npgi2.mtv.corp.google.com
+npgi19.mtv.corp.google.com                             ,npgi19.mtv.corp.google.com
+npgi18.mtv.corp.google.com                             ,npgi18.mtv.corp.google.com
+npgi17.mtv.corp.google.com                             ,npgi17.mtv.corp.google.com
+npgi16.mtv.corp.google.com                             ,npgi16.mtv.corp.google.com
+npgi15.mtv.corp.google.com                             ,npgi15.mtv.corp.google.com
+npgi14.mtv.corp.google.com                             ,npgi14.mtv.corp.google.com
+npgi13.mtv.corp.google.com                             ,npgi13.mtv.corp.google.com
+npgi12.mtv.corp.google.com                             ,npgi12.mtv.corp.google.com
+npgi11.mtv.corp.google.com                             ,npgi11.mtv.corp.google.com
+npgi10.mtv.corp.google.com                             ,npgi10.mtv.corp.google.com
+npgi1.mtv.corp.google.com                              ,npgi1.mtv.corp.google.com
+mpbe6.fra.corp.google.com                              ,mpbe6.fra.corp.google.com
+mpbe5.fra.corp.google.com                              ,mpbe5.fra.corp.google.com
+mpbe4.fra.corp.google.com                              ,mpbe4.fra.corp.google.com
+mpbe3.fra.corp.google.com                              ,mpbe3.fra.corp.google.com
+mpbe2.fra.corp.google.com                              ,mpbe2.fra.corp.google.com
+mpbe1.fra.corp.google.com                              ,mpbe1.fra.corp.google.com
+wpvo9.hot.corp.google.com                              ,wpvo9.hot.corp.google.com
+wpvo8.hot.corp.google.com                              ,wpvo8.hot.corp.google.com
+wpvo7.hot.corp.google.com                              ,wpvo7.hot.corp.google.com
+wpvo6.hot.corp.google.com                              ,wpvo6.hot.corp.google.com
+wpvo5.hot.corp.google.com                              ,wpvo5.hot.corp.google.com
+wpvo4.hot.corp.google.com                              ,wpvo4.hot.corp.google.com
+wpvo3.hot.corp.google.com                              ,wpvo3.hot.corp.google.com
+wpvo12.hot.corp.google.com                             ,wpvo12.hot.corp.google.com
+wpvo11.hot.corp.google.com                             ,wpvo11.hot.corp.google.com
+wpvo10.hot.corp.google.com                             ,wpvo10.hot.corp.google.com
+wpvo1.hot.corp.google.com                              ,wpvo1.hot.corp.google.com
+wpvn9.hot.corp.google.com                              ,wpvn9.hot.corp.google.com
+wpvn8.hot.corp.google.com                              ,wpvn8.hot.corp.google.com
+wpvn7.hot.corp.google.com                              ,wpvn7.hot.corp.google.com
+wpvn6.hot.corp.google.com                              ,wpvn6.hot.corp.google.com
+wpvn5.hot.corp.google.com                              ,wpvn5.hot.corp.google.com
+wpvn4.hot.corp.google.com                              ,wpvn4.hot.corp.google.com
+wpvn3.hot.corp.google.com                              ,wpvn3.hot.corp.google.com
+wpvn2.hot.corp.google.com                              ,wpvn2.hot.corp.google.com
+wpvn12.hot.corp.google.com                             ,wpvn12.hot.corp.google.com
+wpvn11.hot.corp.google.com                             ,wpvn11.hot.corp.google.com
+wpvn10.hot.corp.google.com                             ,wpvn10.hot.corp.google.com
+wpvn1.hot.corp.google.com                              ,wpvn1.hot.corp.google.com
+wprk9.hot.corp.google.com                              ,wprk9.hot.corp.google.com
+wprk8.hot.corp.google.com                              ,wprk8.hot.corp.google.com
+wprk7.hot.corp.google.com                              ,wprk7.hot.corp.google.com
+wprk6.hot.corp.google.com                              ,wprk6.hot.corp.google.com
+wprk5.hot.corp.google.com                              ,wprk5.hot.corp.google.com
+wprk4.hot.corp.google.com                              ,wprk4.hot.corp.google.com
+wprk3.hot.corp.google.com                              ,wprk3.hot.corp.google.com
+wprk2.hot.corp.google.com                              ,wprk2.hot.corp.google.com
+wprk12.hot.corp.google.com                             ,wprk12.hot.corp.google.com
+wprk11.hot.corp.google.com                             ,wprk11.hot.corp.google.com
+wprk10.hot.corp.google.com                             ,wprk10.hot.corp.google.com
+wprk1.hot.corp.google.com                              ,wprk1.hot.corp.google.com
+wprj9.hot.corp.google.com                              ,wprj9.hot.corp.google.com
+wprj8.hot.corp.google.com                              ,wprj8.hot.corp.google.com
+wprj7.hot.corp.google.com                              ,wprj7.hot.corp.google.com
+wprj6.hot.corp.google.com                              ,wprj6.hot.corp.google.com
+wprj5.hot.corp.google.com                              ,wprj5.hot.corp.google.com
+wprj4.hot.corp.google.com                              ,wprj4.hot.corp.google.com
+wprj3.hot.corp.google.com                              ,wprj3.hot.corp.google.com
+wprj2.hot.corp.google.com                              ,wprj2.hot.corp.google.com
+wprj12.hot.corp.google.com                             ,wprj12.hot.corp.google.com
+wprj11.hot.corp.google.com                             ,wprj11.hot.corp.google.com
+wprj10.hot.corp.google.com                             ,wprj10.hot.corp.google.com
+wprj1.hot.corp.google.com                              ,wprj1.hot.corp.google.com
+wpri9.hot.corp.google.com                              ,wpri9.hot.corp.google.com
+wpri8.hot.corp.google.com                              ,wpri8.hot.corp.google.com
+wpri7.hot.corp.google.com                              ,wpri7.hot.corp.google.com
+wpri6.hot.corp.google.com                              ,wpri6.hot.corp.google.com
+wpri5.hot.corp.google.com                              ,wpri5.hot.corp.google.com
+wpri4.hot.corp.google.com                              ,wpri4.hot.corp.google.com
+wpri3.hot.corp.google.com                              ,wpri3.hot.corp.google.com
+wpri2.hot.corp.google.com                              ,wpri2.hot.corp.google.com
+wpri12.hot.corp.google.com                             ,wpri12.hot.corp.google.com
+wpri11.hot.corp.google.com                             ,wpri11.hot.corp.google.com
+wpri10.hot.corp.google.com                             ,wpri10.hot.corp.google.com
+wpri1.hot.corp.google.com                              ,wpri1.hot.corp.google.com
+workshare9.corp.google.com                             ,workshare9.corp.google.com
+da-hot-6.da.ext.google.com                             ,da-hot-6.da.ext.google.com
+kpyf9.cbf.corp.google.com                              ,kpyf9.cbf.corp.google.com
+kpyf8.cbf.corp.google.com                              ,kpyf8.cbf.corp.google.com
+kpyf7.cbf.corp.google.com                              ,kpyf7.cbf.corp.google.com
+kpyf6.cbf.corp.google.com                              ,kpyf6.cbf.corp.google.com
+kpyf5.cbf.corp.google.com                              ,kpyf5.cbf.corp.google.com
+kpyf4.cbf.corp.google.com                              ,kpyf4.cbf.corp.google.com
+kpyf3.cbf.corp.google.com                              ,kpyf3.cbf.corp.google.com
+kpyf2.cbf.corp.google.com                              ,kpyf2.cbf.corp.google.com
+kpyf12.cbf.corp.google.com                             ,kpyf12.cbf.corp.google.com
+kpyf11.cbf.corp.google.com                             ,kpyf11.cbf.corp.google.com
+kpyf10.cbf.corp.google.com                             ,kpyf10.cbf.corp.google.com
+kpyf1.cbf.corp.google.com                              ,kpyf1.cbf.corp.google.com
+kpye9.cbf.corp.google.com                              ,kpye9.cbf.corp.google.com
+kpye8.cbf.corp.google.com                              ,kpye8.cbf.corp.google.com
+kpye7.cbf.corp.google.com                              ,kpye7.cbf.corp.google.com
+kpye6.cbf.corp.google.com                              ,kpye6.cbf.corp.google.com
+kpye5.cbf.corp.google.com                              ,kpye5.cbf.corp.google.com
+kpye4.cbf.corp.google.com                              ,kpye4.cbf.corp.google.com
+kpye3.cbf.corp.google.com                              ,kpye3.cbf.corp.google.com
+kpye2.cbf.corp.google.com                              ,kpye2.cbf.corp.google.com
+kpye12.cbf.corp.google.com                             ,kpye12.cbf.corp.google.com
+kpye11.cbf.corp.google.com                             ,kpye11.cbf.corp.google.com
+kpye10.cbf.corp.google.com                             ,kpye10.cbf.corp.google.com
+kpye1.cbf.corp.google.com                              ,kpye1.cbf.corp.google.com
+kpal9.cbf.corp.google.com                              ,kpal9.cbf.corp.google.com
+kpal8.cbf.corp.google.com                              ,kpal8.cbf.corp.google.com
+kpal7.cbf.corp.google.com                              ,kpal7.cbf.corp.google.com
+kpal6.cbf.corp.google.com                              ,kpal6.cbf.corp.google.com
+kpal5.cbf.corp.google.com                              ,kpal5.cbf.corp.google.com
+kpal4.cbf.corp.google.com                              ,kpal4.cbf.corp.google.com
+kpal3.cbf.corp.google.com                              ,kpal3.cbf.corp.google.com
+kpal2.cbf.corp.google.com                              ,kpal2.cbf.corp.google.com
+kpal12.cbf.corp.google.com                             ,kpal12.cbf.corp.google.com
+kpal11.cbf.corp.google.com                             ,kpal11.cbf.corp.google.com
+kpal10.cbf.corp.google.com                             ,kpal10.cbf.corp.google.com
+kpal1.cbf.corp.google.com                              ,kpal1.cbf.corp.google.com
+kpak9.cbf.corp.google.com                              ,kpak9.cbf.corp.google.com
+kpak8.cbf.corp.google.com                              ,kpak8.cbf.corp.google.com
+kpak7.cbf.corp.google.com                              ,kpak7.cbf.corp.google.com
+kpak6.cbf.corp.google.com                              ,kpak6.cbf.corp.google.com
+kpak5.cbf.corp.google.com                              ,kpak5.cbf.corp.google.com
+kpak4.cbf.corp.google.com                              ,kpak4.cbf.corp.google.com
+kpak3.cbf.corp.google.com                              ,kpak3.cbf.corp.google.com
+kpak2.cbf.corp.google.com                              ,kpak2.cbf.corp.google.com
+kpak12.cbf.corp.google.com                             ,kpak12.cbf.corp.google.com
+kpak11.cbf.corp.google.com                             ,kpak11.cbf.corp.google.com
+kpak10.cbf.corp.google.com                             ,kpak10.cbf.corp.google.com
+kpak1.cbf.corp.google.com                              ,kpak1.cbf.corp.google.com
+in-edg-maa03-1-ac-corpa-nvr01.corp.google.com          ,in-edg-maa03-1-ac-corpa-nvr01.corp.google.com
+jp-cs-nrt41-3-xx-corpa-nvr02.corp.google.com           ,jp-cs-nrt41-3-xx-corpa-nvr02.corp.google.com
+jp-cs-nrt41-3-xx-corpa-nvr01.corp.google.com           ,jp-cs-nrt41-3-xx-corpa-nvr01.corp.google.com
+waymo-cadence.corp.google.com                          ,"npgk10.mtv.corp.google.com, waymo-cadence.corp.google.com"
+npgm14.mtv.corp.google.com                             ,"npgm14.mtv.corp.google.com, waymo-capital.corp.google.com"
+twd-wsus-1.ad.corp.google.com                          ,"twd-wsus-1.ad.corp.google.com, twd-wsus.corp.google.com"
+fra-wsus-1.ad.corp.google.com                          ,"fra-wsus-1.ad.corp.google.com, fra-wsus.corp.google.com"
+cbf-wsus-1.ad.corp.google.com                          ,"cbf-wsus-1.ad.corp.google.com, cbf-wsus.corp.google.com"
+hot-wsus-1.ad.corp.google.com                          ,"hot-wsus-1.ad.corp.google.com, hot-wsus.corp.google.com"
+ccure-uat-rc-mas.corp.google.com                       ,"ccure-uat-mas.ad.corp.google.com, ccure-uat-rc-mas.corp.google.com"
+ccure-dev-fargo.ad.corp.google.com                     ,"ccure-dev-fargo.ad.corp.google.com, ccure-uat-mas.ad.corp.google.com"
+www.dragonball.com--com.com                            ,www.google.com--com.com
+xpcb6.ams.corp.google.com                              ,xpcb6.ams.corp.google.com
+xpcb5.ams.corp.google.com                              ,xpcb5.ams.corp.google.com
+xpcb4.ams.corp.google.com                              ,xpcb4.ams.corp.google.com
+xpcb3.ams.corp.google.com                              ,xpcb3.ams.corp.google.com
+xpcb2.ams.corp.google.com                              ,xpcb2.ams.corp.google.com
+xpcb1.ams.corp.google.com                              ,xpcb1.ams.corp.google.com
+nsx-wp.vm.corp.google.com                              ,nsx-wp.vm.corp.google.com
+imaginethat1.thn.corp.google.com                       ,imaginethat1.thn.corp.google.com
+v.ext.google.com                                       ,v.ext.google.com
+swift-prod-saa-instance.corp.google.com                ,"swift-prod-saa01.vm.corp.google.com, swift-prod-saa03.vm.corp.google.com, swift-prod-saa-instance.corp.google.com"
+vcenter-xp.vm.corp.google.com                          ,"vcenter-xp.ams.corp.google.com, vcenter-xp.corp.google.com, vcenter-xp.vm.corp.google.com"
+vcenter-np.vm.corp.google.com                          ,"vcenter-np.corp.google.com, vcenter-np.mtv.corp.google.com, vcenter-np.vm.corp.google.com"
+tstradius.corp.google.com                              ,tstradius.corp.google.com
+seesaw-config-canary.corp.google.com                   ,"seesaw-config-canary.corp.google.com, seesaw-config.corp.google.com"
+vcenter-pp.vm.corp.google.com                          ,"vcenter-pp.corp.google.com, vcenter-pp.twd.corp.google.com, vcenter-pp.vm.corp.google.com"
+secure.nu                                              ,google.com--long-and-obscure-list-of-characters.secure.nu
+www.www.xn--a-------------------------------google.com ,www.www.xn--a-------------------------------google.com
+da-twd-11.da.ext.google.com                            ,da-twd-11.da.ext.google.com
+il-cs-tlv13-1-xx-corpa-nvr02.corp.google.com           ,il-cs-tlv13-1-xx-corpa-nvr02.corp.google.com
+da-mtv-11.da.ext.google.com                            ,da-mtv-11.da.ext.google.com

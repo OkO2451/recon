@@ -19,7 +19,7 @@ command_dir = [
             "-u", url_target,  # Target URL for directory enumeration
             "-s", "204,301,302,307,401",  # Valid status codes
             "-b", "",  # Explicitly disable the blacklist
-            "-o", "data/directory_results.txt",
+            "-o", "data/directory_results2.txt",
         ]
 
 

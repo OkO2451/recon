@@ -1,9 +1,11 @@
 import os
+# import regular expression
+import re
 import subprocess
 
 
-url_target = "https://juice-shop.herokuapp.com/"
-url_target = "http://www.itsecgames.com/"
+url_target = "http://10.10.11.23"
+# url_target = "http://www.itsecgames.com/"
 
 
 command_dns = [
@@ -17,7 +19,7 @@ command_dns = [
 
 command_dir = [
             "gobuster", "dir",
-            "-w", "data/subDomaine.txt",
+            "-w", "data/dir.txt",
             "-u", url_target,  # Target URL for directory enumeration
             "-s", "204,301,302,307,401",  # Valid status codes
             "-b", "",  # Explicitly disable the blacklist
@@ -83,23 +85,52 @@ def invoquer_gobuster( command):
         # Remove empty lines
         output = [line for line in output if line.strip()]
         
-        # Writing the result to a file
-        output_file_path = os.path.join(script_dir, '../data/subdomain_results.txt')
-        with open(output_file_path, 'w') as f:
-            for item in output:
-                f.write("%s\n" % item)
-        
         return output
     
     except Exception as e:
         print(f"An error occurred: {e}")
         return []
 
-# Example usage
-"""
+
 result = invoquer_gobuster(command_dns)
 result1 = invoquer_gobuster(command_dir)
-"""
 
-result = invoquer_gobuster(command_wfuzz)
+def debu(result):
+    print("\n")
+    print("\n")
+    print("-------------------------------------------------------------")
+    print("\n")
+    print("-------------------------------------------------------------")
+    print("-------------------------------------------------------------")
+    print(result)
+    print("-------------------------------------------------------------")
+    print("-------------------------------------------------------------")
+    print("\n")
+    print("-------------------------------------------------------------")
+    print("\n")
+    print("\n")
+# result2 = invoquer_gobuster(command_wfuzz)
 
+
+
+def filter(pattern,result ):
+    # Filter the output to extract subdomains
+    subdomains = []
+    for line in result:
+        # Extract the subdomain from the line
+        match = re.match(pattern, line)
+        if match:
+            subdomain = match.group(1)
+            print(subdomain)
+            subdomains.append(subdomain)
+    return subdomains
+
+pattern =  r"/(\w+)"
+
+debu(result)
+debu(result1)
+
+
+subdomains = filter(pattern,result1)
+
+print(f"the subdomains are : {subdomains}")
