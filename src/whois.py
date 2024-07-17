@@ -66,4 +66,3 @@ def whoIS(domaine):
     execute_command(command)
     
 # test
-

@@ -5,7 +5,7 @@ import json
 import argparse
 from dnsdmpstr import dnsdmpstr
 
-
+"""
 parser = argparse.ArgumentParser()
 parser.add_argument('-u', help="target domain")
 parser.add_argument('-a', help="host search (DNS A Record lookup)", action="store_true")
@@ -40,3 +40,11 @@ if(args.u):
 		print(dnsdump.dnslookup(target))
 		print(dnsdump.pagelinks(target))
 		print(dnsdump.httpheaders(target))
+"""  
+  
+print(json.dumps(dump(target), indent=1))
+print(hostsearch(target))
+print(reversedns(target))
+print(dnslookup(target))
+print(pagelinks(target))
+print(httpheaders(target))
