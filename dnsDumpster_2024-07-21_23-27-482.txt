@@ -1,0 +1,96 @@
+
+
+
+Domain Name: emi.ac.ma
+Updated Date: 2023-08-26T00:01:40.901Z
+Creation Date: 2010-07-26T23:00:00.0Z
+Registry Expiry Date: 2024-07-26T23:00:00.0Z
+Registrar Registration Expiration Date: 2024-07-26T23:00:00.0Z
+Registrar: WANA CORPORATE
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: Redacted | Registry Policy
+Registrant Name: Ecole Mohammadia d'Ingénieurs
+Registrant Organization: Redacted | Registry Policy
+Registrant Street: Redacted | Registry Policy
+Registrant City: Redacted | Registry Policy
+Registrant Postal Code: Redacted | Registry Policy
+Registrant Country: Redacted | Registry Policy
+Registrant Phone: Redacted | Registry Policy
+Registrant Email: Redacted | Registry Policy
+Registry Admin ID: Redacted | Registry Policy
+Admin Name: Driss Eddaifi
+Admin Street: Redacted | Registry Policy
+Admin City: Redacted | Registry Policy
+Admin Postal Code: Redacted | Registry Policy
+Admin Country: Redacted | Registry Policy
+Admin Phone: +212.668493183
+Admin Email: eddaifi@emi.ac.ma
+Registry Tech ID: Redacted | Registry Policy
+Tech Name: Driss Eddaifi
+Tech Street: Redacted | Registry Policy
+Tech City: Redacted | Registry Policy
+Tech Postal Code: Redacted | Registry Policy
+Tech Country: Redacted | Registry Policy
+Tech Phone: +212.668493183
+Tech Email: eddaifi@emi.ac.ma
+Name Server: ns1.emi.ac.ma
+Name Server: ns2.emi.ac.ma
+>>> Last update of WHOIS database: 2024-07-21T22:25:57.848Z <<<
+
+For more information on EPP status codes, please visit https://icann.org/epp
+
+Le service Whois permet la vérification de la disponibilité d’un nom de domaine « .ma » et l’identification de son titulaire. La base de données Whois est maintenue à jour par les prestataires, à chaque fois qu’une modification sur les données enregistrées leur est communiquée par le titulaire. Tout usage abusif du service WHOIS et des données d’identification qu’il publie engage la responsabilité des personnes concernées.
+ 
+ 
+
+
+
+whois
+
+
+% This is the AfriNIC Whois server.
+% The AFRINIC whois database is subject to  the following terms of Use. See https://afrinic.net/whois/terms
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '196.200.140.0 - 196.200.140.255'
+
+% No abuse contact registered for 196.200.140.0 - 196.200.140.255
+
+inetnum:        196.200.140.0 - 196.200.140.255
+netname:        ma-marwan-emi-rabat
+descr:          Mohammadia School for Engineers
+country:        MA
+admin-c:        MS140-AFRINIC
+tech-c:         MS140-AFRINIC
+status:         ASSIGNED PA
+remarks:        data has been transferred from RIPE Whois Database 20050221
+remarks:        www.emi.ac.ma
+mnt-by:         MARWAN-MNT
+mnt-lower:      MARWAN-MNT
+source:         AFRINIC # Filtered
+parent:         196.200.128.0 - 196.200.191.255
+
+person:         Mohammed Souidi
+address:        EMI, PO Box 765, Ibn Sina Ave, Agdal, Rabat, Morocco
+phone:          tel:+212-5376-87150
+nic-hdl:        MS140-AFRINIC
+source:         AFRINIC # Filtered
+mnt-by:         GENERATED-GLBQ2ZC00CQ1JXLY9BFDYVCOMRLDSRGF-MNT
+
+% Information related to '196.200.128.0/18AS30983'
+
+route:          196.200.128.0/18
+origin:         AS30983
+descr:          MARWAN AS
+mnt-by:         MARWAN-MNT
+source:         AFRINIC # Filtered
+remarks:        Network: noc@marwan.ma
+remarks:        Abuse: abuse@marwan.ma
+remarks:        Security: soc@marwan.ma
+
+
+
+ 
+ 

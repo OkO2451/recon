@@ -1,0 +1,135 @@
+arabic.emi.ac.ma,196.200.140.30
+ca.emi.ac.ma,196.200.140.28
+cnc2014.emi.ac.ma,196.200.140.31
+cplex.emi.ac.ma,196.200.140.46
+e-ti.emi.ac.ma,196.200.140.34
+e3s.emi.ac.ma,196.200.140.29
+emi-mooc.emi.ac.ma,196.200.140.19
+emi-rsi.emi.ac.ma,196.200.140.18
+emiconnect.emi.ac.ma,196.200.140.78
+emierp.emi.ac.ma,176.31.117.99
+emistes.emi.ac.ma,196.200.140.12
+erp.emi.ac.ma,196.200.140.21
+etudes.emi.ac.ma,196.200.140.26
+idp.emi.ac.ma,196.200.140.54
+kabhost.emi.ac.ma,196.200.140.16
+maictra.emi.ac.ma,196.200.140.20
+mail.emi.ac.ma,196.200.140.52
+masternode.emi.ac.ma,196.200.140.33
+merhost.emi.ac.ma,196.200.140.35
+monitor.emi.ac.ma,196.200.140.38
+moodle.emi.ac.ma,196.200.140.43
+moodle2.emi.ac.ma,196.200.140.62
+mpeg125.emi.ac.ma,196.200.140.63
+ns2.emi.ac.ma,196.200.140.7
+orioaiserv.emi.ac.ma,196.200.140.48
+perfsonar.emi.ac.ma,196.200.140.50
+pfehost.emi.ac.ma,196.200.140.51
+publications.emi.ac.ma,196.200.140.37
+rime.emi.ac.ma,196.200.140.17
+sic.emi.ac.ma,196.200.140.42
+smtp.emi.ac.ma,196.200.140.25
+smtpgate1.emi.ac.ma,196.200.140.24
+smtpgate2.emi.ac.ma,196.200.140.10
+solar.emi.ac.ma,196.200.140.41
+solarlog1200.emi.ac.ma,196.200.140.44
+spsql.emi.ac.ma,196.200.140.22
+spweb.emi.ac.ma,196.200.140.23
+telecom17.emi.ac.ma,196.200.140.31
+unavco.emi.ac.ma,196.200.140.9
+www.emi.ac.ma,196.200.140.2
+yasmina.emi.ac.ma,196.200.140.47
+
+
+
+
+
+
+solarlog1200.emi.ac.ma,196.200.140.44
+smtpgate1.emi.ac.ma,196.200.140.24
+moodle2.emi.ac.ma,196.200.140.62
+smtpgate2.emi.ac.ma,196.200.140.10
+ns2.emi.ac.ma,196.200.140.7
+cnc2014.emi.ac.ma,196.200.140.31
+telecom17.emi.ac.ma,196.200.140.31
+ca.emi.ac.ma,196.200.140.28
+yasmina.emi.ac.ma,196.200.140.47
+arabic.emi.ac.ma,196.200.140.30
+sic.emi.ac.ma,196.200.140.42
+masternode.emi.ac.ma,196.200.140.33
+moodle.emi.ac.ma,196.200.140.32
+rime.emi.ac.ma,196.200.140.17
+emi-rsi.emi.ac.ma,196.200.140.18
+e-ti.emi.ac.ma,196.200.140.34
+eduroam.emi.ac.ma,196.200.140.53
+unavco.emi.ac.ma,196.200.140.9
+idp.emi.ac.ma,196.200.140.54
+erp.emi.ac.ma,196.200.140.21
+emierp.emi.ac.ma,196.200.140.6
+smtp.emi.ac.ma,196.200.140.25
+perfsonar.emi.ac.ma,196.200.140.50
+sir.emi.ac.ma,196.200.140.15
+monitor.emi.ac.ma,196.200.140.38
+e3s.emi.ac.ma,196.200.140.29
+etudes.emi.ac.ma,196.200.140.26
+emistes.emi.ac.ma,196.200.140.12
+publications.emi.ac.ma,196.200.140.37
+emiconnect.emi.ac.ma,196.200.140.78
+kabhost.emi.ac.ma,196.200.140.16
+pfehost.emi.ac.ma,196.200.140.51
+merhost.emi.ac.ma,196.200.140.35
+orioaiserv.emi.ac.ma,196.200.140.48
+www.emi.ac.ma,196.200.140.2
+
+
+
+
+
+A : 196.200.140.2
+MX : 10 smtpgate2.emi.ac.ma.
+MX : 10 smtpgate1.emi.ac.ma.
+NS : ns1.emi.ac.ma.
+NS : ns2.emi.ac.ma.
+TXT : "google-site-verification=RsCISHxH52yE8wKf66PxRsJ319wDVJgIkBxualBg6w8"
+TXT : "v=spf1 mx ~all"
+TXT : "google-site-verification=Uuni-uJw4wSJ7igqPuvslU6AEE9lWx2f5bNs_T54USw"
+TXT : "gle-site-verification=d-QJSrE_WWkATT_HZQ7cfkL8h-jtgqtsPF6zjj8HuXM"
+TXT : "MS=ms64293636"
+SOA : ns1.emi.ac.ma. emiadm.emi.ac.ma. 2023101212 10800 3600 1209600 3600
+
+
+
+
+
+error getting links
+
+
+
+
+
+HTTP/1.1 301 Moved Permanently
+Location: https://emi.ac.ma:443/
+Content-Length: 98
+Content-Type: text/html
+
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 17 Jul 2024 09:29:08 GMT
+Server: Apache/2.4.58 (Fedora Linux) OpenSSL/3.1.1
+X-Powered-By: PHP/8.3.0RC6
+X-Redirect-By: WordPress
+Location: https://www.emi.ac.ma/
+Content-Length: 0
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: cookiesession1=678A8C31F9CE6597565C70F58D482BB3;Expires=Thu, 17 Jul 2025 09:29:55 GMT;Path=/;HttpOnly
+
+HTTP/1.1 200 OK
+Date: Wed, 17 Jul 2024 09:29:09 GMT
+Server: Apache/2.4.58 (Fedora Linux) OpenSSL/3.1.1
+X-Powered-By: PHP/8.3.0RC6
+Link: <https://www.emi.ac.ma/wp-json/>; rel="https://api.w.org/", <https://www.emi.ac.ma/wp-json/wp/v2/pages/1233>; rel="alternate"; title="JSON"; type="application/json", <https://www.emi.ac.ma/>; rel=shortlink
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+content-length: 81714

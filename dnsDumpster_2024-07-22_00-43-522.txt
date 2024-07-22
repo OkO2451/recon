@@ -1,0 +1,98 @@
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+                    Domain      IP Address
+0    inscription.emi.ac.ma   176.31.117.99
+2         emierp.emi.ac.ma   176.31.117.99
+5      smtpgate2.emi.ac.ma  196.200.140.10
+9      smtpgate2.emi.ac.ma  196.200.140.10
+33       emistes.emi.ac.ma  196.200.140.12
+29           sir.emi.ac.ma  196.200.140.15
+36       kabhost.emi.ac.ma  196.200.140.16
+19          rime.emi.ac.ma  196.200.140.17
+20       emi-rsi.emi.ac.ma  196.200.140.18
+40           www.emi.ac.ma   196.200.140.2
+3                emi.ac.ma   196.200.140.2
+25           erp.emi.ac.ma  196.200.140.21
+4      smtpgate1.emi.ac.ma  196.200.140.24
+7      smtpgate1.emi.ac.ma  196.200.140.24
+27          smtp.emi.ac.ma  196.200.140.25
+32        etudes.emi.ac.ma  196.200.140.26
+13            ca.emi.ac.ma  196.200.140.28
+31           e3s.emi.ac.ma  196.200.140.29
+15        arabic.emi.ac.ma  196.200.140.30
+12     telecom17.emi.ac.ma  196.200.140.31
+11       cnc2014.emi.ac.ma  196.200.140.31
+18        moodle.emi.ac.ma  196.200.140.32
+17    masternode.emi.ac.ma  196.200.140.33
+21          e-ti.emi.ac.ma  196.200.140.34
+38       merhost.emi.ac.ma  196.200.140.35
+34  publications.emi.ac.ma  196.200.140.37
+30       monitor.emi.ac.ma  196.200.140.38
+16           sic.emi.ac.ma  196.200.140.42
+6   solarlog1200.emi.ac.ma  196.200.140.44
+14       yasmina.emi.ac.ma  196.200.140.47
+39    orioaiserv.emi.ac.ma  196.200.140.48
+28     perfsonar.emi.ac.ma  196.200.140.50
+37       pfehost.emi.ac.ma  196.200.140.51
+1           mail.emi.ac.ma  196.200.140.52
+22       eduroam.emi.ac.ma  196.200.140.53
+24           idp.emi.ac.ma  196.200.140.54
+26        emierp.emi.ac.ma   196.200.140.6
+8        moodle2.emi.ac.ma  196.200.140.62
+10           ns2.emi.ac.ma   196.200.140.7
+35    emiconnect.emi.ac.ma  196.200.140.78
+23        unavco.emi.ac.ma   196.200.140.9
+
+
+
+--------------------------------------------------------------------------------
+Domain Name: emi.ac.ma
+Updated Date: 2023-08-26T00:01:40.901Z
+Creation Date: 2010-07-26T23:00:00.0Z
+Registry Expiry Date: 2024-07-26T23:00:00.0Z
+Registrar Registration Expiration Date: 2024-07-26T23:00:00.0Z
+Registrar: WANA CORPORATE
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: Redacted | Registry Policy
+Registrant Name: Ecole Mohammadia d'Ingénieurs
+Registrant Organization: Redacted | Registry Policy
+Registrant Street: Redacted | Registry Policy
+Registrant City: Redacted | Registry Policy
+Registrant Postal Code: Redacted | Registry Policy
+Registrant Country: Redacted | Registry Policy
+Registrant Phone: Redacted | Registry Policy
+Registrant Email: Redacted | Registry Policy
+Registry Admin ID: Redacted | Registry Policy
+Admin Name: Driss Eddaifi
+Admin Street: Redacted | Registry Policy
+Admin City: Redacted | Registry Policy
+Admin Postal Code: Redacted | Registry Policy
+Admin Country: Redacted | Registry Policy
+Admin Phone: +212.668493183
+Admin Email: eddaifi@emi.ac.ma
+Registry Tech ID: Redacted | Registry Policy
+Tech Name: Driss Eddaifi
+Tech Street: Redacted | Registry Policy
+Tech City: Redacted | Registry Policy
+Tech Postal Code: Redacted | Registry Policy
+Tech Country: Redacted | Registry Policy
+Tech Phone: +212.668493183
+Tech Email: eddaifi@emi.ac.ma
+Name Server: ns1.emi.ac.ma
+Name Server: ns2.emi.ac.ma
+>>> Last update of WHOIS database: 2024-07-21T23:41:05.520Z <<<
+
+For more information on EPP status codes, please visit https://icann.org/epp
+
+Le service Whois permet la vérification de la disponibilité d’un nom de domaine « .ma » et l’identification de son titulaire. La base de données Whois est maintenue à jour par les prestataires, à chaque fois qu’une modification sur les données enregistrées leur est communiquée par le titulaire. Tout usage abusif du service WHOIS et des données d’identification qu’il publie engage la responsabilité des personnes concernées.
+ 
+ 
+
+
+
+whois
+
+
+Command execution failed or returned no output.

@@ -1,8 +1,7 @@
-Domain                ,Associated Domains
-mail.emi.ac.ma        ,"autodiscover.emi.ac.ma, mail.emi.ac.ma"
-emierp.emi.ac.ma      ,emierp.emi.ac.ma
-inscription.emi.ac.ma ,inscription.emi.ac.ma
-emi.ac.ma             ,"emi.ac.ma, www.emi.ac.ma"
-*.emi.ac.ma           ,"*.emi.ac.ma, emi.ac.ma"
-smtpgate1.emi.ac.ma   ,"smtpgate1.emi.ac.ma, www.smtpgate1.emi.ac.ma"
-smtpgate2.emi.ac.ma   ,"smtpgate2.emi.ac.ma, www.smtpgate2.emi.ac.ma"
+Domain,Associated Domains
+mail.emi.ac.ma,196.200.140.4
+emierp.emi.ac.ma,176.31.117.99
+inscription.emi.ac.ma,176.31.117.99
+emi.ac.ma,196.200.140.2
+smtpgate1.emi.ac.ma,196.200.140.24
+smtpgate2.emi.ac.ma,196.200.140.10

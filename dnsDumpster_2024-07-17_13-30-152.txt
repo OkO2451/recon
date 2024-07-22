@@ -1,0 +1,627 @@
+starting the dnsdmpstr:
+
+false
+reversedns
+
+
+google-proxy-74-125-210-0.google.com,74.125.210.0
+rate-limited-proxy-108-177-70-0.google.com,108.177.70.0
+google-proxy-66-249-80-0.google.com,66.249.80.0
+google-proxy-74-125-211-0.google.com,74.125.211.0
+rate-limited-proxy-74-125-151-0.google.com,74.125.151.0
+rate-limited-proxy-142-250-91-0.google.com,142.250.91.0
+rate-limited-proxy-66-249-91-0.google.com,66.249.91.0
+google-proxy-192-178-12-0.google.com,192.178.12.0
+google-proxy-142-250-32-0.google.com,142.250.32.0
+rate-limited-proxy-108-177-72-0.google.com,108.177.72.0
+google-proxy-66-249-82-0.google.com,66.249.82.0
+rate-limited-proxy-66-249-92-0.google.com,66.249.92.0
+google-proxy-192-178-13-0.google.com,192.178.13.0
+google-proxy-74-125-213-0.google.com,74.125.213.0
+rate-limited-proxy-108-177-73-0.google.com,108.177.73.0
+google-proxy-64-233-173-0.google.com,64.233.173.0
+google-proxy-66-249-93-0.google.com,66.249.93.0
+google-proxy-192-178-14-0.google.com,192.178.14.0
+google-proxy-74-125-214-0.google.com,74.125.214.0
+rate-limited-proxy-108-177-65-0.google.com,108.177.65.0
+rate-limited-proxy-108-177-75-0.google.com,108.177.75.0
+google-proxy-66-102-6-0.google.com,66.102.6.0
+rate-limited-proxy-108-177-66-0.google.com,108.177.66.0
+google-proxy-66-102-7-0.google.com,66.102.7.0
+rate-limited-proxy-74-125-217-0.google.com,74.125.217.0
+rate-limited-proxy-108-177-67-0.google.com,108.177.67.0
+rate-limited-proxy-108-177-77-0.google.com,108.177.77.0
+rate-limited-proxy-66-249-87-0.google.com,66.249.87.0
+google-proxy-66-102-8-0.google.com,66.102.8.0
+google-proxy-192-178-8-0.google.com,192.178.8.0
+google-proxy-74-125-208-0.google.com,74.125.208.0
+rate-limited-proxy-74-125-218-0.google.com,74.125.218.0
+rate-limited-proxy-74-125-148-0.google.com,74.125.148.0
+rate-limited-proxy-108-177-78-0.google.com,108.177.78.0
+google-proxy-66-249-88-0.google.com,66.249.88.0
+google-proxy-66-102-9-0.google.com,66.102.9.0
+google-proxy-192-178-9-0.google.com,192.178.9.0
+google-proxy-74-125-209-0.google.com,74.125.209.0
+rate-limited-proxy-74-125-219-0.google.com,74.125.219.0
+rate-limited-proxy-74-125-149-0.google.com,74.125.149.0
+rate-limited-proxy-108-177-69-0.google.com,108.177.69.0
+rate-limited-proxy-108-177-79-0.google.com,108.177.79.0
+rate-limited-proxy-66-249-89-0.google.com,66.249.89.0
+rate-limited-proxy-72-14-199-0.google.com,72.14.199.0
+netnod-ix-hel-blue-9000.google.com,185.1.230.6
+google-proxy-192-178-10-100.google.com,192.178.10.100
+rate-limited-proxy-74-125-150-100.google.com,74.125.150.100
+rate-limited-proxy-108-177-70-100.google.com,108.177.70.100
+google-proxy-66-249-80-100.google.com,66.249.80.100
+google-proxy-74-125-211-100.google.com,74.125.211.100
+rate-limited-proxy-192-178-21-100.google.com,192.178.21.100
+rate-limited-proxy-108-177-71-100.google.com,108.177.71.100
+rate-limited-proxy-66-249-91-100.google.com,66.249.91.100
+google-proxy-192-178-12-100.google.com,192.178.12.100
+google-proxy-74-125-212-100.google.com,74.125.212.100
+google-proxy-142-250-32-100.google.com,142.250.32.100
+rate-limited-proxy-108-177-72-100.google.com,108.177.72.100
+google-proxy-64-233-172-100.google.com,64.233.172.100
+google-proxy-66-249-83-100.google.com,66.249.83.100
+google-proxy-192-178-14-100.google.com,192.178.14.100
+google-proxy-74-125-214-100.google.com,74.125.214.100
+google-proxy-66-249-84-100.google.com,66.249.84.100
+google-proxy-74-125-215-100.google.com,74.125.215.100
+rate-limited-proxy-108-177-75-100.google.com,108.177.75.100
+google-proxy-66-102-6-100.google.com,66.102.6.100
+rate-limited-proxy-74-125-216-100.google.com,74.125.216.100
+rate-limited-proxy-108-177-66-100.google.com,108.177.66.100
+rate-limited-proxy-192-178-17-100.google.com,192.178.17.100
+rate-limited-proxy-74-125-217-100.google.com,74.125.217.100
+rate-limited-proxy-108-177-77-100.google.com,108.177.77.100
+google-proxy-66-102-8-100.google.com,66.102.8.100
+google-proxy-74-125-208-100.google.com,74.125.208.100
+rate-limited-proxy-74-125-218-100.google.com,74.125.218.100
+rate-limited-proxy-203-208-38-100.google.com,203.208.38.100
+rate-limited-proxy-209-85-238-100.google.com,209.85.238.100
+rate-limited-proxy-74-125-148-100.google.com,74.125.148.100
+rate-limited-proxy-108-177-68-100.google.com,108.177.68.100
+rate-limited-proxy-108-177-78-100.google.com,108.177.78.100
+rate-limited-proxy-142-250-88-100.google.com,142.250.88.100
+google-proxy-66-249-88-100.google.com,66.249.88.100
+google-proxy-192-178-9-100.google.com,192.178.9.100
+google-proxy-74-125-209-100.google.com,74.125.209.100
+rate-limited-proxy-74-125-219-100.google.com,74.125.219.100
+rate-limited-proxy-108-177-69-100.google.com,108.177.69.100
+rate-limited-proxy-66-249-89-100.google.com,66.249.89.100
+rate-limited-proxy-72-14-199-100.google.com,72.14.199.100
+mail-pg0-f100.google.com,74.125.83.100
+mail-vk0-f100.google.com,209.85.213.100
+mail-ua1-f100.google.com,209.85.222.100
+mail-wm1-f100.google.com,209.85.128.100
+mail-io1-f100.google.com,209.85.166.100
+mail-oo1-f100.google.com,209.85.161.100
+mail-wr1-f100.google.com,209.85.221.100
+mail-qv1-f100.google.com,209.85.219.100
+rate-limited-proxy-74-125-150-200.google.com,74.125.150.200
+rate-limited-proxy-108-177-70-200.google.com,108.177.70.200
+google-proxy-66-249-80-200.google.com,66.249.80.200
+google-proxy-74-125-211-200.google.com,74.125.211.200
+rate-limited-proxy-192-178-21-200.google.com,192.178.21.200
+rate-limited-proxy-108-177-71-200.google.com,108.177.71.200
+google-proxy-74-125-212-200.google.com,74.125.212.200
+google-proxy-142-250-32-200.google.com,142.250.32.200
+rate-limited-proxy-108-177-72-200.google.com,108.177.72.200
+google-proxy-66-249-82-200.google.com,66.249.82.200
+rate-limited-proxy-66-249-92-200.google.com,66.249.92.200
+google-proxy-192-178-13-200.google.com,192.178.13.200
+google-proxy-74-125-213-200.google.com,74.125.213.200
+rate-limited-proxy-108-177-73-200.google.com,108.177.73.200
+google-proxy-64-233-173-200.google.com,64.233.173.200
+google-proxy-66-249-83-200.google.com,66.249.83.200
+google-proxy-66-249-93-200.google.com,66.249.93.200
+google-proxy-192-178-14-200.google.com,192.178.14.200
+google-proxy-74-125-214-200.google.com,74.125.214.200
+rate-limited-proxy-108-177-64-200.google.com,108.177.64.200
+rate-limited-proxy-108-177-74-200.google.com,108.177.74.200
+google-proxy-66-249-84-200.google.com,66.249.84.200
+google-proxy-74-125-215-200.google.com,74.125.215.200
+rate-limited-proxy-108-177-65-200.google.com,108.177.65.200
+rate-limited-proxy-108-177-76-200.google.com,108.177.76.200
+google-proxy-66-102-7-200.google.com,66.102.7.200
+rate-limited-proxy-192-178-17-200.google.com,192.178.17.200
+rate-limited-proxy-74-125-217-200.google.com,74.125.217.200
+rate-limited-proxy-108-177-77-200.google.com,108.177.77.200
+rate-limited-proxy-66-249-87-200.google.com,66.249.87.200
+google-proxy-66-102-8-200.google.com,66.102.8.200
+google-proxy-192-178-8-200.google.com,192.178.8.200
+google-proxy-74-125-208-200.google.com,74.125.208.200
+rate-limited-proxy-74-125-218-200.google.com,74.125.218.200
+rate-limited-proxy-203-208-38-200.google.com,203.208.38.200
+rate-limited-proxy-209-85-238-200.google.com,209.85.238.200
+rate-limited-proxy-74-125-148-200.google.com,74.125.148.200
+rate-limited-proxy-108-177-68-200.google.com,108.177.68.200
+rate-limited-proxy-142-250-88-200.google.com,142.250.88.200
+google-proxy-192-178-9-200.google.com,192.178.9.200
+rate-limited-proxy-74-125-149-200.google.com,74.125.149.200
+rate-limited-proxy-108-177-79-200.google.com,108.177.79.200
+rate-limited-proxy-66-249-89-200.google.com,66.249.89.200
+rate-limited-proxy-72-14-199-200.google.com,72.14.199.200
+mail-qk0-f200.google.com,209.85.220.200
+mail-io0-f200.google.com,95.213.203.174
+mail-yw0-f200.google.com,82.202.226.238
+mail-yb1-f200.google.com,209.85.219.200
+mail-pf1-f200.google.com,209.85.210.200
+mail-pg1-f200.google.com,209.85.215.200
+mail-oi1-f200.google.com,209.85.167.200
+mail-lj1-f200.google.com,209.85.208.200
+mail-il1-f200.google.com,104.216.17.161
+mail-pl1-f200.google.com,209.85.214.200
+netnod-ix-ge-b-sth-1500.google.com,194.68.128.115
+google-proxy-74-125-210-10.google.com,74.125.210.10
+rate-limited-proxy-74-125-150-10.google.com,74.125.150.10
+rate-limited-proxy-108-177-70-10.google.com,108.177.70.10
+google-proxy-66-249-80-10.google.com,66.249.80.10
+rate-limited-proxy-192-178-21-10.google.com,192.178.21.10
+rate-limited-proxy-74-125-151-10.google.com,74.125.151.10
+rate-limited-proxy-142-250-91-10.google.com,142.250.91.10
+rate-limited-proxy-66-249-91-10.google.com,66.249.91.10
+google-proxy-142-250-32-10.google.com,142.250.32.10
+google-proxy-192-178-13-10.google.com,192.178.13.10
+google-proxy-74-125-213-10.google.com,74.125.213.10
+rate-limited-proxy-108-177-73-10.google.com,108.177.73.10
+google-proxy-66-249-83-10.google.com,66.249.83.10
+google-proxy-74-125-214-10.google.com,74.125.214.10
+rate-limited-proxy-108-177-74-10.google.com,108.177.74.10
+google-proxy-74-125-215-10.google.com,74.125.215.10
+216-239-45-10.google.com,216.239.45.10
+google-proxy-66-249-85-10.google.com,66.249.85.10
+rate-limited-proxy-108-177-66-10.google.com,108.177.66.10
+rate-limited-proxy-108-177-76-10.google.com,108.177.76.10
+rate-limited-proxy-108-177-77-10.google.com,108.177.77.10
+rate-limited-proxy-66-249-87-10.google.com,66.249.87.10
+google-proxy-74-125-208-10.google.com,74.125.208.10
+rate-limited-proxy-209-85-238-10.google.com,209.85.238.10
+google-proxy-66-249-88-10.google.com,66.249.88.10
+google-proxy-66-102-9-10.google.com,66.102.9.10
+google-proxy-192-178-9-10.google.com,192.178.9.10
+rate-limited-proxy-74-125-219-10.google.com,74.125.219.10
+rate-limited-proxy-108-177-79-10.google.com,108.177.79.10
+rate-limited-proxy-66-249-89-10.google.com,66.249.89.10
+rate-limited-proxy-72-14-199-10.google.com,72.14.199.10
+google-proxy-74-125-210-110.google.com,74.125.210.110
+rate-limited-proxy-108-177-70-110.google.com,108.177.70.110
+google-proxy-66-249-80-110.google.com,66.249.80.110
+rate-limited-proxy-66-249-90-110.google.com,66.249.90.110
+rate-limited-proxy-192-178-21-110.google.com,192.178.21.110
+rate-limited-proxy-108-177-71-110.google.com,108.177.71.110
+google-proxy-74-125-212-110.google.com,74.125.212.110
+google-proxy-64-233-172-110.google.com,64.233.172.110
+google-proxy-66-249-82-110.google.com,66.249.82.110
+rate-limited-proxy-66-249-92-110.google.com,66.249.92.110
+google-proxy-192-178-13-110.google.com,192.178.13.110
+google-proxy-74-125-213-110.google.com,74.125.213.110
+rate-limited-proxy-108-177-73-110.google.com,108.177.73.110
+google-proxy-64-233-173-110.google.com,64.233.173.110
+google-proxy-66-249-83-110.google.com,66.249.83.110
+google-proxy-192-178-14-110.google.com,192.178.14.110
+google-proxy-74-125-214-110.google.com,74.125.214.110
+rate-limited-proxy-108-177-64-110.google.com,108.177.64.110
+rate-limited-proxy-108-177-74-110.google.com,108.177.74.110
+google-proxy-66-249-84-110.google.com,66.249.84.110
+google-proxy-74-125-215-110.google.com,74.125.215.110
+rate-limited-proxy-108-177-65-110.google.com,108.177.65.110
+google-proxy-66-249-85-110.google.com,66.249.85.110
+google-proxy-66-102-6-110.google.com,66.102.6.110
+rate-limited-proxy-108-177-66-110.google.com,108.177.66.110
+rate-limited-proxy-108-177-76-110.google.com,108.177.76.110
+rate-limited-proxy-192-178-17-110.google.com,192.178.17.110
+rate-limited-proxy-74-125-217-110.google.com,74.125.217.110
+rate-limited-proxy-108-177-77-110.google.com,108.177.77.110
+rate-limited-proxy-66-249-87-110.google.com,66.249.87.110
+google-proxy-74-125-208-110.google.com,74.125.208.110
+rate-limited-proxy-209-85-238-110.google.com,209.85.238.110
+rate-limited-proxy-108-177-68-110.google.com,108.177.68.110
+rate-limited-proxy-142-250-88-110.google.com,142.250.88.110
+google-proxy-66-102-9-110.google.com,66.102.9.110
+google-proxy-192-178-9-110.google.com,192.178.9.110
+google-proxy-74-125-209-110.google.com,74.125.209.110
+rate-limited-proxy-74-125-149-110.google.com,74.125.149.110
+rate-limited-proxy-108-177-69-110.google.com,108.177.69.110
+rate-limited-proxy-108-177-79-110.google.com,108.177.79.110
+rate-limited-proxy-66-249-89-110.google.com,66.249.89.110
+rate-limited-proxy-72-14-199-110.google.com,72.14.199.110
+mail-pg0-f110.google.com,74.125.83.110
+mail-vk0-f110.google.com,209.85.213.110
+mail-wm0-f110.google.com,74.125.82.110
+mail-oa1-f110.google.com,209.85.160.110
+mail-ua1-f110.google.com,209.85.222.110
+mail-lf1-f110.google.com,209.85.167.110
+mail-ej1-f110.google.com,209.85.218.110
+mail-oo1-f110.google.com,209.85.161.110
+mail-wr1-f110.google.com,209.85.221.110
+mail-vs1-f110.google.com,209.85.217.110
+mail-ot1-f110.google.com,209.85.210.110
+mail-qv1-f110.google.com,209.85.219.110
+mail-sor-f110.google.com,209.85.220.110
+google-proxy-192-178-10-210.google.com,192.178.10.210
+rate-limited-proxy-108-177-70-210.google.com,108.177.70.210
+google-proxy-66-249-80-210.google.com,66.249.80.210
+rate-limited-proxy-192-178-21-210.google.com,192.178.21.210
+rate-limited-proxy-108-177-71-210.google.com,108.177.71.210
+google-proxy-66-249-81-210.google.com,66.249.81.210
+rate-limited-proxy-142-250-91-210.google.com,142.250.91.210
+google-proxy-74-125-212-210.google.com,74.125.212.210
+google-proxy-66-249-82-210.google.com,66.249.82.210
+rate-limited-proxy-66-249-92-210.google.com,66.249.92.210
+google-proxy-192-178-13-210.google.com,192.178.13.210
+google-proxy-74-125-213-210.google.com,74.125.213.210
+rate-limited-proxy-108-177-73-210.google.com,108.177.73.210
+google-proxy-64-233-173-210.google.com,64.233.173.210
+google-proxy-66-249-83-210.google.com,66.249.83.210
+google-proxy-66-249-93-210.google.com,66.249.93.210
+google-proxy-192-178-14-210.google.com,192.178.14.210
+google-proxy-74-125-214-210.google.com,74.125.214.210
+rate-limited-proxy-108-177-74-210.google.com,108.177.74.210
+google-proxy-66-249-84-210.google.com,66.249.84.210
+rate-limited-proxy-108-177-65-210.google.com,108.177.65.210
+rate-limited-proxy-108-177-75-210.google.com,108.177.75.210
+google-proxy-66-249-85-210.google.com,66.249.85.210
+rate-limited-proxy-74-125-216-210.google.com,74.125.216.210
+rate-limited-proxy-108-177-76-210.google.com,108.177.76.210
+google-proxy-66-102-7-210.google.com,66.102.7.210
+rate-limited-proxy-192-178-17-210.google.com,192.178.17.210
+rate-limited-proxy-108-177-77-210.google.com,108.177.77.210
+google-proxy-66-102-8-210.google.com,66.102.8.210
+rate-limited-proxy-74-125-218-210.google.com,74.125.218.210
+rate-limited-proxy-203-208-38-210.google.com,203.208.38.210
+rate-limited-proxy-209-85-238-210.google.com,209.85.238.210
+rate-limited-proxy-108-177-68-210.google.com,108.177.68.210
+rate-limited-proxy-108-177-78-210.google.com,108.177.78.210
+google-proxy-66-249-88-210.google.com,66.249.88.210
+google-proxy-74-125-209-210.google.com,74.125.209.210
+rate-limited-proxy-74-125-219-210.google.com,74.125.219.210
+rate-limited-proxy-66-249-89-210.google.com,66.249.89.210
+rate-limited-proxy-72-14-199-210.google.com,72.14.199.210
+mail-pf0-f210.google.com,209.85.192.210
+mail-wi0-f210.google.com,209.85.212.210
+mail-qk0-f210.google.com,209.85.220.210
+mail-yb1-f210.google.com,209.85.219.210
+mail-pf1-f210.google.com,209.85.210.210
+mail-pg1-f210.google.com,209.85.215.210
+mail-oi1-f210.google.com,209.85.167.210
+mail-lj1-f210.google.com,209.85.208.210
+mail-qk1-f210.google.com,209.85.222.210
+mail-il1-f210.google.com,209.85.166.210
+mail-pl1-f210.google.com,209.85.214.210
+mail-yw1-f210.google.com,209.85.128.210
+cache10.google.com,217.9.232.139
+mail-pg0-f10.google.com,74.125.83.10
+mail-vk0-f10.google.com,209.85.213.10
+mail-wm0-f10.google.com,74.125.82.10
+mail-oa1-f10.google.com,209.85.160.10
+mail-pj1-f10.google.com,209.85.216.10
+mail-wm1-f10.google.com,209.85.128.10
+mail-oo1-f10.google.com,209.85.161.10
+mail-ot1-f10.google.com,209.85.210.10
+mail-qv1-f10.google.com,209.85.219.10
+gsademo10.google.com,64.233.190.43
+rate-limited-proxy-74-125-150-20.google.com,74.125.150.20
+rate-limited-proxy-108-177-70-20.google.com,108.177.70.20
+rate-limited-proxy-66-249-90-20.google.com,66.249.90.20
+google-proxy-74-125-211-20.google.com,74.125.211.20
+rate-limited-proxy-192-178-21-20.google.com,192.178.21.20
+rate-limited-proxy-74-125-151-20.google.com,74.125.151.20
+rate-limited-proxy-66-249-91-20.google.com,66.249.91.20
+google-proxy-192-178-12-20.google.com,192.178.12.20
+google-proxy-74-125-212-20.google.com,74.125.212.20
+google-proxy-142-250-32-20.google.com,142.250.32.20
+rate-limited-proxy-66-249-92-20.google.com,66.249.92.20
+google-proxy-192-178-13-20.google.com,192.178.13.20
+google-proxy-74-125-213-20.google.com,74.125.213.20
+rate-limited-proxy-108-177-73-20.google.com,108.177.73.20
+google-proxy-64-233-173-20.google.com,64.233.173.20
+google-proxy-66-249-93-20.google.com,66.249.93.20
+google-proxy-74-125-214-20.google.com,74.125.214.20
+rate-limited-proxy-108-177-74-20.google.com,108.177.74.20
+google-proxy-66-249-84-20.google.com,66.249.84.20
+rate-limited-proxy-108-177-75-20.google.com,108.177.75.20
+google-proxy-66-102-6-20.google.com,66.102.6.20
+rate-limited-proxy-108-177-76-20.google.com,108.177.76.20
+google-proxy-66-102-7-20.google.com,66.102.7.20
+rate-limited-proxy-192-178-17-20.google.com,192.178.17.20
+rate-limited-proxy-74-125-217-20.google.com,74.125.217.20
+rate-limited-proxy-108-177-67-20.google.com,108.177.67.20
+rate-limited-proxy-108-177-77-20.google.com,108.177.77.20
+rate-limited-proxy-66-249-87-20.google.com,66.249.87.20
+google-proxy-192-178-8-20.google.com,192.178.8.20
+rate-limited-proxy-209-85-238-20.google.com,209.85.238.20
+rate-limited-proxy-74-125-148-20.google.com,74.125.148.20
+rate-limited-proxy-108-177-68-20.google.com,108.177.68.20
+rate-limited-proxy-108-177-78-20.google.com,108.177.78.20
+google-proxy-66-249-88-20.google.com,66.249.88.20
+google-proxy-66-102-9-20.google.com,66.102.9.20
+google-proxy-74-125-209-20.google.com,74.125.209.20
+rate-limited-proxy-74-125-149-20.google.com,74.125.149.20
+rate-limited-proxy-108-177-69-20.google.com,108.177.69.20
+rate-limited-proxy-66-249-89-20.google.com,66.249.89.20
+rate-limited-proxy-72-14-199-20.google.com,72.14.199.20
+google-proxy-74-125-210-120.google.com,74.125.210.120
+rate-limited-proxy-74-125-150-120.google.com,74.125.150.120
+rate-limited-proxy-108-177-70-120.google.com,108.177.70.120
+google-proxy-66-249-80-120.google.com,66.249.80.120
+google-proxy-74-125-211-120.google.com,74.125.211.120
+rate-limited-proxy-192-178-21-120.google.com,192.178.21.120
+rate-limited-proxy-74-125-151-120.google.com,74.125.151.120
+rate-limited-proxy-108-177-71-120.google.com,108.177.71.120
+google-proxy-66-249-81-120.google.com,66.249.81.120
+google-proxy-192-178-12-120.google.com,192.178.12.120
+google-proxy-74-125-212-120.google.com,74.125.212.120
+google-proxy-142-250-32-120.google.com,142.250.32.120
+google-proxy-64-233-172-120.google.com,64.233.172.120
+google-proxy-66-249-82-120.google.com,66.249.82.120
+rate-limited-proxy-66-249-92-120.google.com,66.249.92.120
+google-proxy-192-178-13-120.google.com,192.178.13.120
+google-proxy-74-125-213-120.google.com,74.125.213.120
+rate-limited-proxy-108-177-73-120.google.com,108.177.73.120
+google-proxy-64-233-173-120.google.com,64.233.173.120
+google-proxy-66-249-83-120.google.com,66.249.83.120
+google-proxy-66-249-93-120.google.com,66.249.93.120
+google-proxy-192-178-14-120.google.com,192.178.14.120
+rate-limited-proxy-108-177-64-120.google.com,108.177.64.120
+rate-limited-proxy-108-177-74-120.google.com,108.177.74.120
+google-proxy-66-249-84-120.google.com,66.249.84.120
+rate-limited-proxy-108-177-65-120.google.com,108.177.65.120
+rate-limited-proxy-108-177-75-120.google.com,108.177.75.120
+rate-limited-proxy-74-125-216-120.google.com,74.125.216.120
+rate-limited-proxy-108-177-66-120.google.com,108.177.66.120
+rate-limited-proxy-108-177-76-120.google.com,108.177.76.120
+google-proxy-66-102-7-120.google.com,66.102.7.120
+rate-limited-proxy-192-178-17-120.google.com,192.178.17.120
+rate-limited-proxy-108-177-67-120.google.com,108.177.67.120
+rate-limited-proxy-108-177-77-120.google.com,108.177.77.120
+google-proxy-66-102-8-120.google.com,66.102.8.120
+rate-limited-proxy-74-125-218-120.google.com,74.125.218.120
+rate-limited-proxy-203-208-38-120.google.com,203.208.38.120
+rate-limited-proxy-209-85-238-120.google.com,209.85.238.120
+rate-limited-proxy-74-125-148-120.google.com,74.125.148.120
+rate-limited-proxy-108-177-68-120.google.com,108.177.68.120
+rate-limited-proxy-142-250-88-120.google.com,142.250.88.120
+google-proxy-66-249-88-120.google.com,66.249.88.120
+google-proxy-192-178-9-120.google.com,192.178.9.120
+google-proxy-74-125-209-120.google.com,74.125.209.120
+rate-limited-proxy-74-125-219-120.google.com,74.125.219.120
+rate-limited-proxy-108-177-69-120.google.com,108.177.69.120
+rate-limited-proxy-108-177-79-120.google.com,108.177.79.120
+rate-limited-proxy-66-249-89-120.google.com,66.249.89.120
+mail-pg0-f120.google.com,74.125.83.120
+mail-oa1-f120.google.com,209.85.160.120
+mail-ua1-f120.google.com,209.85.222.120
+mail-ed1-f120.google.com,209.85.208.120
+mail-lf1-f120.google.com,209.85.167.120
+mail-ej1-f120.google.com,209.85.218.120
+mail-io1-f120.google.com,209.85.166.120
+mail-oo1-f120.google.com,209.85.161.120
+mail-wr1-f120.google.com,209.85.221.120
+mail-vs1-f120.google.com,209.85.217.120
+mail-qv1-f120.google.com,209.85.219.120
+mail-sor-f120.google.com,209.85.220.120
+google-proxy-74-125-210-220.google.com,74.125.210.220
+rate-limited-proxy-74-125-150-220.google.com,74.125.150.220
+rate-limited-proxy-108-177-70-220.google.com,108.177.70.220
+rate-limited-proxy-66-249-90-220.google.com,66.249.90.220
+rate-limited-proxy-74-125-151-220.google.com,74.125.151.220
+rate-limited-proxy-108-177-71-220.google.com,108.177.71.220
+rate-limited-proxy-142-250-91-220.google.com,142.250.91.220
+rate-limited-proxy-66-249-91-220.google.com,66.249.91.220
+google-proxy-192-178-12-220.google.com,192.178.12.220
+google-proxy-74-125-212-220.google.com,74.125.212.220
+google-proxy-142-250-32-220.google.com,142.250.32.220
+rate-limited-proxy-108-177-72-220.google.com,108.177.72.220
+google-proxy-66-249-82-220.google.com,66.249.82.220
+rate-limited-proxy-66-249-92-220.google.com,66.249.92.220
+rate-limited-proxy-108-177-73-220.google.com,108.177.73.220
+google-proxy-66-249-83-220.google.com,66.249.83.220
+google-proxy-66-249-93-220.google.com,66.249.93.220
+google-proxy-192-178-14-220.google.com,192.178.14.220
+google-proxy-74-125-214-220.google.com,74.125.214.220
+rate-limited-proxy-108-177-64-220.google.com,108.177.64.220
+google-proxy-66-249-84-220.google.com,66.249.84.220
+rate-limited-proxy-108-177-75-220.google.com,108.177.75.220
+google-proxy-66-102-6-220.google.com,66.102.6.220
+rate-limited-proxy-108-177-66-220.google.com,108.177.66.220
+google-proxy-66-102-7-220.google.com,66.102.7.220
+rate-limited-proxy-74-125-217-220.google.com,74.125.217.220
+rate-limited-proxy-66-249-87-220.google.com,66.249.87.220
+google-proxy-66-102-8-220.google.com,66.102.8.220
+google-proxy-74-125-208-220.google.com,74.125.208.220
+rate-limited-proxy-74-125-218-220.google.com,74.125.218.220
+rate-limited-proxy-203-208-38-220.google.com,203.208.38.220
+rate-limited-proxy-209-85-238-220.google.com,209.85.238.220
+rate-limited-proxy-108-177-78-220.google.com,108.177.78.220
+rate-limited-proxy-142-250-88-220.google.com,142.250.88.220
+google-proxy-66-249-88-220.google.com,66.249.88.220
+google-proxy-74-125-209-220.google.com,74.125.209.220
+rate-limited-proxy-74-125-219-220.google.com,74.125.219.220
+rate-limited-proxy-74-125-149-220.google.com,74.125.149.220
+rate-limited-proxy-72-14-199-220.google.com,72.14.199.220
+mail-pf0-f220.google.com,209.85.192.220
+mail-io0-f220.google.com,209.85.223.220
+mail-ot0-f220.google.com,74.125.82.220
+mail-pg1-f220.google.com,209.85.215.220
+mail-oi1-f220.google.com,209.85.167.220
+mail-lj1-f220.google.com,209.85.208.220
+mail-qk1-f220.google.com,209.85.222.220
+mail-vk1-f220.google.com,209.85.221.220
+mail-qt1-f220.google.com,209.85.160.220
+mail-yw1-f220.google.com,209.85.128.220
+cache20.google.com,217.9.232.149
+mail-vk0-f20.google.com,209.85.213.20
+mail-wm0-f20.google.com,74.125.82.20
+mail-oa1-f20.google.com,209.85.160.20
+mail-ua1-f20.google.com,209.85.222.20
+mail-ed1-f20.google.com,209.85.208.20
+mail-lf1-f20.google.com,209.85.167.20
+mail-pj1-f20.google.com,209.85.216.20
+mail-oo1-f20.google.com,209.85.161.20
+mail-wr1-f20.google.com,209.85.221.20
+mail-qv1-f20.google.com,209.85.219.20
+google-proxy-74-125-210-30.google.com,74.125.210.30
+google-proxy-66-249-80-30.google.com,66.249.80.30
+rate-limited-proxy-66-249-90-30.google.com,66.249.90.30
+google-proxy-74-125-211-30.google.com,74.125.211.30
+rate-limited-proxy-192-178-21-30.google.com,192.178.21.30
+rate-limited-proxy-74-125-151-30.google.com,74.125.151.30
+rate-limited-proxy-108-177-71-30.google.com,108.177.71.30
+google-proxy-142-250-32-30.google.com,142.250.32.30
+rate-limited-proxy-108-177-72-30.google.com,108.177.72.30
+google-proxy-64-233-172-30.google.com,64.233.172.30
+google-proxy-66-249-82-30.google.com,66.249.82.30
+google-proxy-64-233-173-30.google.com,64.233.173.30
+google-proxy-66-249-83-30.google.com,66.249.83.30
+google-proxy-66-249-93-30.google.com,66.249.93.30
+google-proxy-192-178-14-30.google.com,192.178.14.30
+google-proxy-66-249-84-30.google.com,66.249.84.30
+google-proxy-74-125-215-30.google.com,74.125.215.30
+google-proxy-66-249-85-30.google.com,66.249.85.30
+rate-limited-proxy-108-177-66-30.google.com,108.177.66.30
+rate-limited-proxy-108-177-76-30.google.com,108.177.76.30
+google-proxy-66-102-7-30.google.com,66.102.7.30
+rate-limited-proxy-192-178-17-30.google.com,192.178.17.30
+rate-limited-proxy-74-125-217-30.google.com,74.125.217.30
+rate-limited-proxy-108-177-67-30.google.com,108.177.67.30
+rate-limited-proxy-108-177-77-30.google.com,108.177.77.30
+rate-limited-proxy-74-125-218-30.google.com,74.125.218.30
+rate-limited-proxy-209-85-238-30.google.com,209.85.238.30
+rate-limited-proxy-74-125-148-30.google.com,74.125.148.30
+rate-limited-proxy-108-177-78-30.google.com,108.177.78.30
+rate-limited-proxy-142-250-88-30.google.com,142.250.88.30
+google-proxy-66-249-88-30.google.com,66.249.88.30
+rate-limited-proxy-74-125-219-30.google.com,74.125.219.30
+rate-limited-proxy-108-177-69-30.google.com,108.177.69.30
+rate-limited-proxy-66-249-89-30.google.com,66.249.89.30
+rate-limited-proxy-72-14-199-30.google.com,72.14.199.30
+google-proxy-192-178-10-130.google.com,192.178.10.130
+google-proxy-74-125-210-130.google.com,74.125.210.130
+rate-limited-proxy-74-125-150-130.google.com,74.125.150.130
+rate-limited-proxy-66-249-90-130.google.com,66.249.90.130
+rate-limited-proxy-192-178-21-130.google.com,192.178.21.130
+rate-limited-proxy-74-125-151-130.google.com,74.125.151.130
+google-proxy-66-249-81-130.google.com,66.249.81.130
+rate-limited-proxy-142-250-91-130.google.com,142.250.91.130
+
+
+
+whois
+
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2024, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       142.250.0.0 - 142.251.255.255
+CIDR:           142.250.0.0/15
+NetName:        GOOGLE
+NetHandle:      NET-142-250-0-0-1
+Parent:         NET142 (NET-142-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS15169
+Organization:   Google LLC (GOGL)
+RegDate:        2012-05-24
+Updated:        2012-05-24
+Ref:            https://rdap.arin.net/registry/ip/142.250.0.0
+
+
+
+OrgName:        Google LLC
+OrgId:          GOGL
+Address:        1600 Amphitheatre Parkway
+City:           Mountain View
+StateProv:      CA
+PostalCode:     94043
+Country:        US
+RegDate:        2000-03-30
+Updated:        2019-10-31
+Comment:        Please note that the recommended way to file abuse complaints are located in the following links. 
+Comment:        
+Comment:        To report abuse and illegal activity: https://www.google.com/contact/
+Comment:        
+Comment:        For legal requests: http://support.google.com/legal 
+Comment:        
+Comment:        Regards, 
+Comment:        The Google Team
+Ref:            https://rdap.arin.net/registry/entity/GOGL
+
+
+OrgTechHandle: ZG39-ARIN
+OrgTechName:   Google LLC
+OrgTechPhone:  +1-650-253-0000 
+OrgTechEmail:  arin-contact@google.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ZG39-ARIN
+
+OrgAbuseHandle: ABUSE5250-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-650-253-0000 
+OrgAbuseEmail:  network-abuse@google.com
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE5250-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2024, American Registry for Internet Numbers, Ltd.
+#
+
+ 
+ 
+crt
+
+
+                                    Domain       IP Address
+0                        apigee.google.com   142.250.201.78
+1                partnertest.fi.google.com  142.250.184.174
+2                          supl.google.com   64.233.166.192
+3                             m.google.com    172.217.17.11
+4   telus-voice-staging.sandbox.google.com   142.251.173.81
+5                     nestrenew.google.com   142.250.201.78
+6                           www.google.com  142.250.200.100
+7              ecc-test.sandbox.google.com    108.177.15.81
+8                  console.nest.google.com  142.250.184.174
+9                          wifi.google.com   64.233.184.123
+10                      sandbox.google.com    173.194.76.81
+11           acs-autopush.voice.google.com   142.250.201.78
+12                  telus.voice.google.com   142.250.201.78
+13            acs-staging.voice.google.com   142.250.201.78
+14                     discover.google.com  172.217.168.174
+15                status.search.google.com  142.250.200.142
+16                     accounts.google.com    74.125.133.84
+17                    classroom.google.com   142.250.184.14
+18                  status.play.google.com   142.250.200.78
+19                         mail.google.com  142.250.200.101
+20              solutions.cloud.google.com    216.58.209.78
+21                   guidebooks.google.com  142.250.200.110
+22                      startup.google.com  142.250.184.174
+23                    acs.voice.google.com   142.250.184.14
+24            cert-test.sandbox.google.com     74.125.71.90
+25     programmablesearchengine.google.com   142.250.185.14
+26                      get.duo.google.com    216.58.209.78
+27         contentpartners.maps.google.com  142.250.184.174
+28      deliverynavigator.cloud.google.com   142.250.201.78
+29        streetviewstudio.maps.google.com  142.250.184.174
+30                  captive.googleapis.com   216.239.32.220
+31                              google.com  142.250.184.174
+32                         time.google.com    216.239.35.12
+33                              dns.google          8.8.8.8
+34                         ldap.google.com    216.239.32.58
+35                acs-dev.voice.google.com   142.250.184.14
+36                      adwords.google.com   64.233.167.113
+37                 upload.video.google.com   142.250.185.15
+38              da-hot-6.da.ext.google.com    216.239.44.21
+39                        v.ext.google.com    74.125.122.62

@@ -8,21 +8,13 @@ def get_crt_domains():
     df = pd.read_csv("data/crt.csv")
     return df["Domain"].tolist()
 
-def execute_command(command):
-    # print working directory
-    print(os.getcwd())
-    # Ensure url_target is not empty
 
-    
-    
+def execute_command(command):
+
     try:
-        # Construct the gobuster command for subdomain enumeration
-        command = command
+        print(f"Running command: {' '.join(command)}")  # Debug output: print the command
         
-        # Debug output: print the command
-        print(f"Running command: {' '.join(command)}")
-        
-        # Execute the gobuster command and capture output
+        # Execute the command and capture output
         result = subprocess.run(
             command,
             stdout=subprocess.PIPE,
@@ -31,38 +23,46 @@ def execute_command(command):
         )
         
         # Debug output: print result codes and output
-        print(f"Command exited with code: {result.returncode}")
+        """print(f"Command exited with code: {result.returncode}")
         print(f"stdout: {result.stdout}")
-        print(f"stderr: {result.stderr}")
-        
-        # Handle errors
+        print(f"stderr: {result.stderr}")"""
+        final = f"{result.stdout} \n {result.stderr}"
         if result.returncode != 0:
-            print("Gobuster encountered an error:")
-            print(result.stderr)
-            return []
+            print("Command encountered an error:")
+            # print(result.stderr)
+            return "Command execution failed or returned no output."
         
-        # Split the output into a list of lines
-        output = result.stdout.split('\n')
-        
-        # Remove empty lines
-        output = [line for line in output if line.strip()]
-        
-        
+        return   final
     
     except Exception as e:
-        print(f"An error occurred: {e}")
-        return []
+        # print(f"An error occurred: {e}")
+        return "An error occurred during command execution."
+
+
 
 
 # the who is command
 
-command = [
-    "whois",
-    "-H"
-]
+
 
 def whoIS(domaine):
-    command.append(domaine)
-    execute_command(command)
+    command = ["whois", "-H", domaine]  
+    return execute_command(command)  
+def gobust(domaine):
+    command = ["gobuster", "dns", "-d", domaine, "-w", "/usr/share/seclists/Discovery/DNS/subdomains-top1million-5000.txt", "-t", "100", "-q"]
+    return execute_command(command)
+
+def nmap(domaine):
+    command = ["nmap", "-sV",
+               "-Pn",
+               "-sC",
+               domaine]
+    return execute_command(command)
+
+
     
-# test
+# test 
+# res = whoIS("emi.ac.ma")
+
+
+

@@ -1,8 +1,16 @@
 #!/usr/bin/env python3
-
+import datetime
 import requests
 from bs4 import BeautifulSoup
 import json
+import socket
+from whois import *
+from crt import getCRT
+import pandas as pd
+
+import argparse
+import sys
+
 
 class dnsdmpstr():
 	"""
@@ -83,45 +91,110 @@ class dnsdmpstr():
 			return(r.text)
 		except:
 			return("An error occurred.")
-	"""
-	execute dnslookup on hackertarget api
-	"""
-	def dnslookup(self, target):
-		try:
-			# accepts a domain name
-			r = requests.get("https://api.hackertarget.com/dnslookup/?q={}".format(target))
-			return(r.text)
-		except:
-			return("An error occurred.")
-
-	"""
-	grab page links from hackertarget api
-	"""
-	def pagelinks(self, target):
-		try:
-			# accepts a domain name / ip
-			r = requests.get("https://api.hackertarget.com/pagelinks/?q={}".format(target))
-			return(r.text)
-		except:
-			return("An error occurred.")
-
-	"""
-	grab returned http headers from page using hackertarget api
-	"""
-	def httpheaders(self, target):
-		try:
-			# accepts a domain name
-			r = requests.get("https://api.hackertarget.com/httpheaders/?q={}".format(target))
-			return(r.text)
-		except:
-			return("An error occurred.")
+	
 
 
-target = "emi.ac.ma"
+def passive_action(target):
+	instance = dnsdmpstr()
+	result = ""
+	# Use the instance to call methods with the target
+	json.dumps(instance.dump(target), indent=1)
+	result += "\n----------------------------------------------------------------------------------------------------------------------------------------------------------------\n"
+	reversedns = (instance.reversedns(target))
+	ips = []
+	for line in  reversedns.split("\n"):
+		# if line.split(",")[1] isnt none
+		if line.split(",")[1]:
+			name = line.split(",")[0]
+			ip = line.split(",")[1]
+			dict = {"Domain":name,"IP Address":ip}
+			ips.append(dict)
+	result += "\n----------------------------------------------------------------------------------------------------------------------------------------------------------------\n"
+	df = getCRT(target)
+	ips_df = pd.DataFrame(ips)
+	df = pd.concat([df, ips_df], ignore_index=True)
+	# only keep the unique values
+	df = df.drop_duplicates(subset=["Domain"])
+	# sort on "IP Address"
+	df = df.sort_values(by="IP Address")
+	# iterate over the values of "IP Address" 
+	result += (df.to_string())
 
-print(json.dumps(dnsdmpstr.dump(target), indent=1))
-print(dnsdmpstr.hostsearch(target))
-print(dnsdmpstr.reversedns(target))
-print(dnsdmpstr.dnslookup(target))
-print(dnsdmpstr.pagelinks(target))
-print(dnsdmpstr.httpheaders(target))
+	record("dnsDumpster",result)
+	return result , df
+
+
+def passive(target):
+	instance = dnsdmpstr()
+	result = ""
+	# Use the instance to call methods with the target
+	result += "starting the dnsdmpstr:\n\n"
+	result += (json.dumps(instance.dump(target), indent=1))
+	result += ("\nreversedns\n\n\n")
+	result += "\n----------------------------------------------------------------------------------------------------------------------------------------------------------------\n"
+	result += (instance.reversedns(target))
+
+	result += "\n\n\n"
+	result += "\n----------------------------------------------------------------------------------------------------------------------------------------------------------------\n"
+	result += whoIS(target)
+	result += "\n\n\n"
+
+
+	# now we have the ipadress we use it on the whois script
+	result += "\n----------------------------------------------------------------------------------------------------------------------------------------------------------------\n"
+	result += "\nwhois\n\n\n"
+	res2 = socket.gethostbyname(target)
+	result += (whoIS(res2))
+
+	# getting crt results
+	result += "\ncrt\n\n\n"
+	result += "\n----------------------------------------------------------------------------------------------------------------------------------------------------------------\n"
+	result += getCRT(target)
+ 
+	record("dnsDumpster",result)
+ 
+
+def active_action(target):
+	result , df =  passive_action(target)
+	for ip in df["IP Address"]:
+		# check if the the first value of the ip before "." is 196
+		print(ip.split(".")[0])
+		if ip.split(".")[0] != "196":
+			result	+= "\n----------------------------------------------------------------------------------------------------------------------------------------------------------------\n"
+			result +=  whoIS(ip)
+			res2 = socket.gethostbyname(target)
+			result +=  whoIS(res2)
+			result	+= "\n----------------------------------------------------------------------------------------------------------------------------------------------------------------\n"
+			result +=  nmap(ip)
+			result	+= "\n----------------------------------------------------------------------------------------------------------------------------------------------------------------\n"
+
+	print(df.to_string())
+	
+ 
+	record("dnsDumpster",result)
+
+
+def record(original_filename,result):
+
+	# Get current datetime
+	now = datetime.datetime.now()
+
+	# Format datetime into a string (e.g., 2023-04-01_12-30-45)
+	timestamp = now.strftime("%Y-%m-%d_%H-%M-%S")
+
+	# Append timestamp to the original filename before the extension
+	filename_with_timestamp = f"{original_filename}_{timestamp}.txt"
+
+	# Write the results to the file with the timestamp in its name
+	with open(filename_with_timestamp, "w") as file:
+		file.write(result)
+  
+
+
+def parse_arguments():
+    parser = argparse.ArgumentParser(description="Domain Reconnaissance Tool")
+    parser.add_argument("domain", help="The domain to perform reconnaissance on")
+    parser.add_argument("--mode", choices=['passive', 'active'], default='passive', help="The mode of reconnaissance (passive or active)")
+    parser.add_argument("--dictionary", default=None, help="The dictionary file for active scanning (required for active mode)")
+    return parser.parse_args()
+
