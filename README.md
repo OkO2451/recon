@@ -1,4 +1,5 @@
 # recon
+
 /my_automation_project
     /src
         /my_automation_project
@@ -27,3 +28,30 @@
     setup.py
     requirements.txt
     .gitignore
+
+## Docker
+
+### usage
+
+#### building
+
+```bash
+docker build -t dns_recon_tool .
+
+```
+
+#### runinig the machine
+
+- passive
+
+```bash
+docker run --rm dns_recon --mode passive example.com
+
+```
+
+- active
+
+```bash
+docker run --rm dns_recon --mode active example.com
+
+```

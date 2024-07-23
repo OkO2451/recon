@@ -13,33 +13,6 @@ def getNames(domain_name):
     else:
         print(f"Failed to fetch {url}")
         return None
-"""
-def clean(soup):
-    if soup is None:
-        return pd.DataFrame()  # Return an empty DataFrame if soup is None
-    tr = soup.find_all("tr")
-    tr.pop(0)
-    tr.pop(0)
-    tr.pop(0)
-    domains_dict = {}
-
-    for tr_element in tr:
-        td_elements = tr_element.find_all("td")
-        if len(td_elements) > 5:
-            domain = td_elements[4].text
-            
-            # filtering based on domaine
-            if domain.split(".")[0] == "*":
-                continue
-            associated = socket.gethostbyname(domain)
-            print(f"domaine: {domain} associated: {associated}")
-            domains_dict[domain] = associated
-
-    df = pd.DataFrame(list(domains_dict.items()), columns=["Domain", "Associated Domains"])
-    df.to_csv("data/crt.csv", index=False)
-    return df
-
-"""
 
 
 def clean(soup):
@@ -83,7 +56,7 @@ def extract_text_with_separator(element, separator=", "):
     html = str(element)
     html_replaced = html.replace("<br>", separator).replace("<br/>", separator)
     soup = BeautifulSoup(html_replaced, "html.parser")
-    return soup.get_text()
+    return soup.get_text() 
 
 def getCRT(domaine):
     soup = getNames(domaine)  # Get the BeautifulSoup object

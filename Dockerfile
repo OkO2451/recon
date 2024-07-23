@@ -22,17 +22,15 @@ RUN go install github.com/OJ/gobuster/v3@latest
 # Copy the current directory contents into the container at /usr/src/app
 COPY . .
 
-# Copy your dictionary file into the container
-COPY path/to/your/dictionary.txt /usr/src/app/dictionary.txt
+# Make sure to replace `path/to/your/dictionary.txt` with the actual path to your dictionary file in your project directory
+# For example, if your dictionary file is in the root of your project directory, just use `./dictionary.txt`
+COPY ./dictionary.txt /usr/src/app/dictionary.txt
 
 # Install any needed packages specified in requirements.txt
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Make port 80 available to the world outside this container
-EXPOSE 80
-
 # Define environment variable
 ENV NAME World
 
-# Run main.py when the container launches
-CMD ["python", "./main.py"]
+# Set the entrypoint for the container
+ENTRYPOINT ["python3", "src/main.py"]

@@ -1,5 +1,5 @@
 import pandas as pd
-import os 
+import os
 import subprocess
 
 
@@ -12,8 +12,9 @@ def get_crt_domains():
 def execute_command(command):
 
     try:
-        print(f"Running command: {' '.join(command)}")  # Debug output: print the command
-        
+        # Debug output: print the command
+        print(f"Running command: {' '.join(command)}")
+
         # Execute the command and capture output
         result = subprocess.run(
             command,
@@ -21,7 +22,7 @@ def execute_command(command):
             stderr=subprocess.PIPE,
             text=True
         )
-        
+
         # Debug output: print result codes and output
         """print(f"Command exited with code: {result.returncode}")
         print(f"stdout: {result.stdout}")
@@ -31,26 +32,34 @@ def execute_command(command):
             print("Command encountered an error:")
             # print(result.stderr)
             return "Command execution failed or returned no output."
-        
-        return   final
-    
+
+        return final
+
     except Exception as e:
         # print(f"An error occurred: {e}")
         return "An error occurred during command execution."
 
 
-
-
 # the who is command
 
 
-
 def whoIS(domaine):
-    command = ["whois", "-H", domaine]  
-    return execute_command(command)  
-def gobust(domaine):
-    command = ["gobuster", "dns", "-d", domaine, "-w", "/usr/share/seclists/Discovery/DNS/subdomains-top1million-5000.txt", "-t", "100", "-q"]
+    command = ["whois", "-H", domaine]
     return execute_command(command)
+
+
+def gobust(domaine, dictionary="/usr/src/app/src/dictionary.txt"):
+    command = ["gobuster",
+               "dns",
+               "-d",
+               domaine,
+               "-w",
+               dictionary, 
+               "-t", 
+               "100", 
+               "-q"]
+    return execute_command(command)
+
 
 def nmap(domaine):
     command = ["nmap", "-sV",
@@ -60,9 +69,5 @@ def nmap(domaine):
     return execute_command(command)
 
 
-    
-# test 
+# test
 # res = whoIS("emi.ac.ma")
-
-
-

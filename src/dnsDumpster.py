@@ -94,7 +94,7 @@ class dnsdmpstr():
 	
 
 
-def passive_action(target):
+def passive_action(target ):
 	instance = dnsdmpstr()
 	result = ""
 	# Use the instance to call methods with the target
@@ -120,58 +120,28 @@ def passive_action(target):
 	# iterate over the values of "IP Address" 
 	result += (df.to_string())
 
-	record("dnsDumpster",result)
+	
 	return result , df
 
-
-def passive(target):
-	instance = dnsdmpstr()
-	result = ""
-	# Use the instance to call methods with the target
-	result += "starting the dnsdmpstr:\n\n"
-	result += (json.dumps(instance.dump(target), indent=1))
-	result += ("\nreversedns\n\n\n")
-	result += "\n----------------------------------------------------------------------------------------------------------------------------------------------------------------\n"
-	result += (instance.reversedns(target))
-
-	result += "\n\n\n"
-	result += "\n----------------------------------------------------------------------------------------------------------------------------------------------------------------\n"
-	result += whoIS(target)
-	result += "\n\n\n"
-
-
-	# now we have the ipadress we use it on the whois script
-	result += "\n----------------------------------------------------------------------------------------------------------------------------------------------------------------\n"
-	result += "\nwhois\n\n\n"
-	res2 = socket.gethostbyname(target)
-	result += (whoIS(res2))
-
-	# getting crt results
-	result += "\ncrt\n\n\n"
-	result += "\n----------------------------------------------------------------------------------------------------------------------------------------------------------------\n"
-	result += getCRT(target)
  
-	record("dnsDumpster",result)
- 
-
-def active_action(target):
-	result , df =  passive_action(target)
+def active_action(target, dictionary="/usr/src/app/src/dictionary.txt"):
+	result, df = passive_action(target)
 	for ip in df["IP Address"]:
 		# check if the the first value of the ip before "." is 196
 		print(ip.split(".")[0])
 		if ip.split(".")[0] != "196":
 			result	+= "\n----------------------------------------------------------------------------------------------------------------------------------------------------------------\n"
 			result +=  whoIS(ip)
-			res2 = socket.gethostbyname(target)
-			result +=  whoIS(res2)
-			result	+= "\n----------------------------------------------------------------------------------------------------------------------------------------------------------------\n"
+			result += whoIS(socket.gethostbyname(target))
+			result += "\n********************************************************************************************************\n"
 			result +=  nmap(ip)
-			result	+= "\n----------------------------------------------------------------------------------------------------------------------------------------------------------------\n"
+			result += "\n********************************************************************************************************\n"
+			result +=  gobust(target)
 
-	print(df.to_string())
+	return result
 	
  
-	record("dnsDumpster",result)
+	
 
 
 def record(original_filename,result):
